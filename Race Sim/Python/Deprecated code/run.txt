@@ -1,0 +1,52 @@
+import csv
+import pandas as pd
+import numpy as np
+from scipy.interpolate import pchip_interpolate
+import matplotlib.pyplot as plt
+    
+class Run:
+    def __init__(self, config):
+        self.config = config
+    
+    def set_data(self, data):
+        
+        self.data = pd.DataFrame(data, columns=["Time", "Torq", "Speed", "Power", "Distance", "Cadence", "Heart rate", "ID", "Altitude"])
+        self.data["Speed"]=self.data["Speed"]/3.6
+        self.data["Distance"]=self.data["Distance"]*1000
+        n = len(self.data)
+        self.data["Wind"] = np.zeros(n) # TODO: wind speed for each measurement
+        self.data["Theta"] = np.zeros(n) # TODO: wind direction for each measurement
+        v_cr = np.array([0,30,45,55,70,90,105,120,130,140,150])/3.6
+        cr = np.array([0.0027,0.0030,0.0032,0.0033,0.0035,0.0037,0.0038,0.0040,0.0040,0.0041,0.0041])
+
+        # Computing drag coefficient
+        #print((self.data["Speed"].iloc[:-1].values+self.data["Speed"].iloc[1:].values))    #TODO: per Gabriele: si accede cosi alle righe/colonne di un dataFrame. Dobbiamo combiare tutto qua sotto, e
+                                                # dobbiamo anche scrivere "Power" che l'avevamo lasciato incompleto.
+        interval_data = pd.DataFrame({"Wind relative average speed":(self.data["Speed"].iloc[:-1].values+self.data["Speed"].iloc[1:].values)/2-self.data["Wind"].iloc[:-1].values*np.cos(self.data["Theta"].iloc[:-1].values),\
+                                      "Power":(self.data["Power"].iloc[:-1].values),\
+                                      "Speed difference":self.data["Speed"].iloc[1:].values-self.data["Speed"].iloc[:-1].values,\
+                                      "Squared-speed difference":self.data["Speed"].iloc[1:].values**2-self.data["Speed"].iloc[:-1].values**2,\
+                                      "Distance difference":self.data["Distance"].iloc[1:].values-self.data["Distance"].iloc[:-1].values,\
+                                      "Squared-cadence difference":self.data["Cadence"].iloc[1:].values**2-self.data["Cadence"].iloc[:-1].values**2,\
+                                      "Altitude difference":self.data["Altitude"].iloc[1:].values-self.data["Altitude"].iloc[:-1].values,\
+                                      "Cr":pchip_interpolate(v_cr, cr, self.data["Speed"].iloc[:-1].values),})
+
+        self.cd = 2*(interval_data["Power"]*self.config.get("Efficiency")-self.config.get("Mass")*self.config.get("g")*(interval_data["Cr"]*interval_data["Distance difference"]+\
+                                                                                                       interval_data["Altitude difference"])-\
+                self.config.get("Mass")*interval_data["Squared-speed difference"]/2-self.config.get("Inertia")*interval_data["Squared-cadence difference"])/\
+            (self.config.get("Area")*self.config.get("Density")*interval_data["Distance difference"]*interval_data["Wind relative average speed"]**2)
+        
+        self.cd = pd.DataFrame({"Cd":self.cd, "Wind relative average speed": interval_data["Wind relative average speed"]})
+
+    def plot_cd(self):
+        plt.plot(self.cd["Wind relative average speed"], self.cd["Cd"])
+        print(self.cd["Cd"].values)
+        plt.show()
+        
+class Config:
+    def set_params(self, dictionary):
+        self.params = dictionary
+
+    def get(self, param_name):
+        return self.params[param_name]
+

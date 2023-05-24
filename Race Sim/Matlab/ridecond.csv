@@ -1,0 +1,18 @@
+Identifier;temp;press;umid;wind speed (km/h);angle with respect to north, clockwise direction;driver;vehicle;tyre;cover heavy/light;number
+BM_19_Sunday_PM_Andrea;21;855;37;4;45;Andrea;Taurus;Michelin;light;1
+BM_19_Monday_AM_Andrea;21;857;34;2;45;Andrea;Taurus;Michelin;light;2
+BM_19_Monday_PM_Andrea;22;855;37;5;45;Andrea;Taurus;Michelin;light;3
+BM_19_Tuesday_AM_Andrea;18.5;854.6;43.6;4;45;Andrea;Taurus;Michelin;light;4
+BM_19_Thursday_PM_Andrea;27;863.6;22.5;5;180;Andrea;Taurus;Michelin;light;5
+BM_19_Friday_AM_Andrea;17;865;47.5;4;45;Andrea;Taurus;Michelin;light;6
+BM_19_Friday_PM_Andrea;30;861;20;0;45;Andrea;Taurus;Michelin;light;7
+BM_19_Sunday_AM_Vittoria;13.2;867;60;5;45;Vittoria;TaurusX;Michelin;heavy;8
+BM_19_Sunday_PM_Vittoria;21;857;37;4;45;Vittoria;TaurusX;Michelin;heavy;9
+BM_19_Monday_AM_Vittoria;23.6;855;42;5;45;Vittoria;TaurusX;Michelin;heavy;10
+BM_19_Monday_PM_Vittoria;22;855;42;5;45;Vittoria;TaurusX;Michelin;heavy;11
+BM_19_Wednesday_AM_Vittoria;22.5;862;30;6;225;Vittoria;TaurusX;Michelin;heavy;12
+BM_19_Thursday_AM_Vittoria;11.7;867;53.5;3;45;Vittoria;TaurusX;Michelin;heavy;13
+BM_19_Thursday_PM_Vittoria;28;836.8;25;4;45;Vittoria;TaurusX;Michelin;heavy;14
+BM_19_Friday_AM_Vittoria;19;865;35;7;45;Vittoria;TaurusX;Michelin;heavy;15
+BM_19_Friday_PM_Vittoria;30;861;30;0;45;Vittoria;TaurusX;Michelin;light;16
+BM_19_Tuesday_AM_Andrea;28;836.8;25;4;45;Andrea;Taurus;Michelin;heavy;14

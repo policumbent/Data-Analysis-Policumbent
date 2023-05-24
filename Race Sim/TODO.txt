@@ -1,0 +1,16 @@
+TODO
+1. Scrivere in python:
+	1.1. Lettura file dati, lettura altri file (parametri)
+		1.1.1. Cambio dei parametri da csv con Excel
+	1.2. Calcolo cd puntuale
+	1.3. Approssimazione con Gauss3 o altro metodo
+		- Media mobile?
+	1.4. Ottimizzazione della run con Cd del punto precedente
+
+- Scrivere il meno possibile
+- Facilità d'uso
+- Facilità per aggiungere funzionalità o modificare
+
+- Vento?
+
+2. Chiedere a Lorenzo dove si trovano file run e file parametri
