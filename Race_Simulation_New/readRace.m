@@ -18,3 +18,4 @@ Hrate = table(:,7);         % Heartrate
 Alt = table(:,9);           % Altitude
 
 end 
+

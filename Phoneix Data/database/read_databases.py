@@ -6,6 +6,6 @@ con = sqlite3.connect('database.db')
 data = pd.read_sql_query('Select * from ant', con)
 
 # print(data.head())
-data.to_csv('ant.csv', index=False)
+data.to_csv('franck.csv', index=False)
 
 
