@@ -19,7 +19,7 @@ for i=2:L-2
      n = N(i);
 
      if c == 1
-         u_in = 90;
+         u_in = mean(RPM);
      else
          u_in = RPM(i);
      end
