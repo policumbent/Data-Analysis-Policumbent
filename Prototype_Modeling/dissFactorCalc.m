@@ -18,7 +18,7 @@ function [Lambda, cal] = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,Id
     elseif(strcmp(bike,"phoenix") == 1)
         wheels = 2;
     else
-        disp("Not a valide choiche for the bike");
+        disp("Not a valid choiche for the bike");
         exit(1);
     end
 
@@ -33,8 +33,8 @@ function [Lambda, cal] = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,Id
     int_t = sum(Jt*delta_x') + sum(Ker_p*delta_x');
     int_p = sum(Jp*delta_x') + sum(Ker_t*delta_x');
 
-    Lambda = int_p/int_t;           % Aka Dissipation Factor
-    Jul = trapz(power);       % Integral on the power function to determine the input energy
+    Lambda = int_p/int_t;    % Aka Dissipation Factor
+    Jul = trapz(power);      % Integral on the power function to determine the input energy
     cal = Jul/4.184;         % Not so proud conversion to calories
 
 end
