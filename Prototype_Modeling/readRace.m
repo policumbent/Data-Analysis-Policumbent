@@ -1,4 +1,4 @@
-function [time,torq,vel,power,dist,RPM,Hrate,Alt] = readRace(IDRun)
+function [altitude,cadence,distance,vel_lin,power] = readRace(IDRun)
 
 IDRun = append(IDRun,".csv");
 
@@ -6,16 +6,11 @@ IDRun = append(IDRun,".csv");
 table = readmatrix(IDRun);
 
 % Initialize all the variables red from the table
-timeMin = table(:,1);
-Lngth = size(timeMin,1);
-time = (timeMin-ones(Lngth,1)*(timeMin(1)))*60;
-torq = table(:,2);          % Torque
-vel = table(:,3);           % Velocity
-power = table(:,4);         % Power
-dist = table(:,5);          % Distance
-RPM = table(:,6);           % Pedals RPM
-Hrate = table(:,7);         % Heartrate
-Alt = table(:,9);           % Altitude
+altitude = table(:,2);
+cadence = table(:,3);
+distance = table(:,4);
+vel_lin = table(:,5);
+power = table(:,6);
 
 end 
 
