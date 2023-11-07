@@ -11,7 +11,7 @@ N = ones(L,1);
 RPM_wheel_to_RPM_pedal = ones(L,1);
 
 for i=2:L-2
-     if RPM(i+1) < RPM(i) && RPM(i+2) >= RPM(i+1) && RPM(i+3) >= RPM(i+2)
+     if RPM(i) < (RPM(i-1)*0.95) && RPM(i+2) >= RPM(i+1)
         N(i) = N(i-1)+1;
      else 
         N(i) = N(i-1);
