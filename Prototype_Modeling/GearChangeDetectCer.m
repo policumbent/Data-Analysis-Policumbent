@@ -36,6 +36,6 @@ for i=2:L-2
         end
      end
 
-    RPM_wheel_to_RPM_pedal(i) = RPM(i).*(60/T)*(54/17)*(pi/30);
+    RPM_wheel_to_RPM_pedal(i) = RPM(i)*(60/T)*(54/17);
 end
 end
