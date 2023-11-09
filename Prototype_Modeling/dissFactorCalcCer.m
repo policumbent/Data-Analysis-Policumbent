@@ -1,6 +1,5 @@
-function Lambda = dissFactorCalcCer(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,bike,radius,m,ID)
+function Lambda = dissFactorCalcCer(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,m,ID)
 
-    %[~,~,~,~,~,m,~,radius,ID] = readCond(IdRun);
     [~,vel_lin,~,dist,~,~] = readRaceCer(ID);
     
     % Variables pre-allocation
@@ -11,15 +10,8 @@ function Lambda = dissFactorCalcCer(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,bike,r
     Ker_p = zeros(L);       % Rotational kinetic energy calculated from data
     Ker_t = zeros(L);       % Rotational kinetic energy calculated from RPM of the wheel
     I = 0.044;              % Inertia of the wheel
-
-    if(strcmp(bike,"cerberus") == 1)
-        wheels = 3;
-    elseif(strcmp(bike,"phoenix") == 1)
-        wheels = 2;
-    else
-        disp("Not a valid choiche for the bike");
-        exit(1);
-    end
+    radius = 0.23157;
+    wheels = 3;
 
     for i = 2:L
         Jp(i) = 0.5 * m *(vel_lin(i)^2 + vel_lin(i-1)^2)/2;

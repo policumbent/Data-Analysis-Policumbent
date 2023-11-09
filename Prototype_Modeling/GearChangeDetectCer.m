@@ -2,11 +2,12 @@
 % N : number of the middle gear teeth
 % v : the angular velocity of the wheel (RPM)
 % RPM : the column of datas from the pedal
-function [RPM_wheel_to_RPM_pedal, N ] = GearChangeDetectCer(RPM)
+function [RPM_wheel_bo_RPM_pedal, N ,vel_lin_bo_RPM] = GearChangeDetectCer(RPM)
 T = 1;
 L = size(RPM,1);
 N = ones(L,1);
-RPM_wheel_to_RPM_pedal = ones(L,1);
+RPM_wheel_bo_RPM_pedal = ones(L,1);
+radius = 0.23157;
 
 for i=2:L-2
 
@@ -20,22 +21,23 @@ for i=2:L-2
             
      for j = 1:length(n)
         if n == 7
-            T = 19;
+            T = 15;
             elseif n == 6
-            T = 21;
+            T = 17;
             elseif n == 5
-            T = 24;
+            T = 19;
             elseif n == 4
-            T = 28;
+            T = 21;
             elseif n == 3
-            T = 32;
+            T = 24;
             elseif n == 2
-            T = 37;
+            T = 28;
             elseif n == 1
-            T = 42;
+            T = 32;
         end
      end
 
-    RPM_wheel_to_RPM_pedal(i) = RPM(i)*(60/T)*(54/17);
+    RPM_wheel_bo_RPM_pedal(i) = RPM(i)*(60/T)*(54/17);
 end
+vel_lin_bo_RPM = RPM_wheel_bo_RPM_pedal * radius * (pi/30) * 3.6; 
 end

@@ -1,7 +1,6 @@
-function [Lambda, cal] = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,bike,radius,m,ID)
+function Lambda = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,m,ID)
 
-    %[~,~,~,~,~,m,~,radius,ID] = readCond(IdRun);
-    [~,~,dist,vel_lin,power] = readRace(ID);
+    [~,~,dist,vel_lin,~] = readRace(ID);
     
     % Variables pre-allocation
     L = size(RPM_wheel_bo_RPM_pedal,1)-1;
@@ -11,15 +10,8 @@ function [Lambda, cal] = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,bi
     Ker_p = zeros(L);       % Rotational kinetic energy calculated from data
     Ker_t = zeros(L);       % Rotational kinetic energy calculated from RPM of the wheel
     I = 0.044;              % Inertia of the wheel
+    radius = 0.23157;
 
-    if(strcmp(bike,"cerberus") == 1)
-        wheels = 3;
-    elseif(strcmp(bike,"phoenix") == 1)
-        wheels = 2;
-    else
-        disp("Not a valid choiche for the bike");
-        exit(1);
-    end
 
     for i = 2:L
         Jp(i) = 0.5 * m *(vel_lin(i)^2 + vel_lin(i-1)^2)/2;
@@ -33,7 +25,4 @@ function [Lambda, cal] = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,bi
     int_p = sum(Jp*delta_x') + sum(Ker_t*delta_x');
 
     Lambda = int_p/int_t;    % Aka Dissipation Factor
-    Jul = trapz(power);      % Integral on the power function to determine the input energy
-    cal = Jul/4.184;         % Not so proud conversion to calories
-
 end
