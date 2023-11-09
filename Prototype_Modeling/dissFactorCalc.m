@@ -11,6 +11,7 @@ function Lambda = dissFactorCalc(RPM_wheel_bo_RPM_pedal,vel_lin_bo_RPM,m,ID)
     Ker_t = zeros(L);       % Rotational kinetic energy calculated from RPM of the wheel
     I = 0.044;              % Inertia of the wheel
     radius = 0.23157;
+    wheels = 2;
 
 
     for i = 2:L
