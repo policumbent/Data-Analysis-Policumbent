@@ -1,0 +1,28 @@
+Parametri 
+---------
+
+p_el  = (250, 500)
+p_hu = 80
+
+p_rol = (15:20)
+
+cd = (0.4:0.8) 
+A =
+ro = 1.280 kg/m3
+-----------
+
+Loops
+--------
+
+for cd(0.4:0.8)
+    v = cubroot((2(P -  4*p_rol))/(A*cd*ro))
+
+nested Loops
+--------
+
+Plots
+--------
+
+Scatter plots of speed against everything else i guess
+--------------
+
