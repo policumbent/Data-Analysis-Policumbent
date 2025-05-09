@@ -1,0 +1,129 @@
+@startuml
+package Boundary_Conditions <<Rectangle>>{
+
+struct AtmConditions{
++temp : Array
++pres : Array
++umid : Array
++wind : Array
++angle : Array
+..
++setInfo()
++getInfoFromCsv()
+#getInfoFromDict()
+}
+
+struct BikeInfo{
++bike : Vehicle
++driver : Driver
++wheels : Wheels
++gear_box : GearBox
+..
++setInfo()
++getInfoFromExcel()
++getInfoFromCsv()
+}
+
+struct Driver{
++name
++weight
+-string_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+
+struct Vehicle{
++name
++chassis_weight
++hull_weight
++frontal_area
++inertia
++leg_traction : bool
++crank
+-string_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+
+struct GearBox{
++gear_box : List
++chainring
++sec_ratio
+-string_attributes
+-list_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+
+struct Wheels{
++tyre
++pressure
++radius
++rolling_circum
++inertia
+-string_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+}
+
+package Analysis_n_Simulation <<Rectangle>>{
+class Run{
++id_run
++atm_cond : AtmCond
++bike_info : BikeInfo
++run_data : Dataframe
++n_data
++disp
++avg_values : Dict
+__
++setAtmCond()
++setBikeInfo()
++readRun()
+-rescale()
++addCol()
+#calcAvgValues()
++gearChangeDetect()
++setBounds()
++exportCols()
++plot()
++export()
+}
+
+class RunAnalysis extends Run{
++run_list : Dict
+-poly
+-model
+-model_data
+-prediction
+-dict_opts
+__
++addRun()
++rmRun()
++plotEach()
++comparation()
++calcAvgRun()
++generateCol()
++modeling()
++simulate()
+}
+}
+
+package Util <<Rectangle>>{
+class Util{
+__
+#movingAvg()
+#readCsvFile()
+#csv2Df()
+#writeCsvFile()
+}
+}
+@enduml

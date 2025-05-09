@@ -1,0 +1,159 @@
+@startuml
+package Boundary_Conditions <<Rectangle>>{
+
+struct AtmConditions{
++temp : Array
++pres : Array
++umid : Array
++wind : Array
++angle : Array
+..
++setInfo()
++getInfoFromCsv()
+#getInfoFromDict()
+}
+
+struct BikeInfo{
++bike : Vehicle
++driver : Driver
++wheels : Wheels
++gear_box : GearBox
+..
++setInfo()
++getInfoFromExcel()
+~getInfoFromCsv()
+}
+
+struct Driver extends BikeInfo{
++name
++weight
+-_string_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+
+struct Vehicle extends BikeInfo{
++name
++chassis_weight
++hull_weight
++frontal_area
++inertia
++leg_traction : bool
++crank
+-_string_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+
+struct GearBox extends BikeInfo{
++gear_box : List
++chainring
++sec_ratio
+-_string_attributes
+-_list_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+
+struct Wheels extends BikeInfo{
++tyre
++pressure
++radius
++rolling_circum
++inertia
+-_string_attributes
+..
++setInfo()
+#getInfoFromMatrix()
+#getInfoFromDict()
+}
+}
+
+package Analysis_n_Simulation <<Rectangle>>{
+class Run{
++num_id
++id_run
++atm_cond : AtmCond
++bike_info : BikeInfo
++run_data : Dataframe
++n_data
++pos_zero
++disp
++avg_values : Dict
+__
+#clean()
++setAtmCond()
++setSettings()
++setBikeInfo()
++readRun()
+#setColsType()
++rescale()
++addCol()
+-_indexes()
++calcAvgValues()
+~gearChangeDetect()
++setBounds()
++exportCols()
++plot()
++export()
++generateCol()
+}
+
+class RunAnalysis extends Run{
++run_list : Dict
++num_run: Dict
++settings
+-_poly
+-_model
+-_model_data
+-_prediction
+-_dict_opts
+__
++addDictOpts()
++addSettings()
++addRun()
++rmRun()
++uploadFolder()
++plotEach()
++comparation()
+*avgRunRunTime()
+*_allDistances_optimized()
+-_allDistances()
+-_allValues()
++calcAvgRun()
++filtering()
++generateCol()
+*modeling()
+*simulate()
+}
+}
+
+package Util <<Rectangle>>{
+class Util{
+#dtset_path
+#dtcond_path
+#dtsettings_path
+#plot_opts_path
+#pdfexport_path
+__
+#movingAvg()
+#readCsvFile()
+#csv2Df()
+#writeCsvFile()
+#Df2csv()
+#getDatasetPath()
+#getCondPath()
+#getResultsPath()
+#getSettingsPath()
+#getPlotOptsPath()
+#joinPath()
+#f_alpha()
+}
+}
+@enduml

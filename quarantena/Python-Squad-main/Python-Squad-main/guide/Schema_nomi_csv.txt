@@ -1,0 +1,25 @@
+Come salvare i file csv dei dati dei sensori
+
+Schema:
+[Sigla Luogo].[Ciclista-categoria].[data].[ora]
+
+esempio:
+BM.Dh.120924.1630
+
+x Data Analysis: (esempio pdf di confronto tra più run)
+BM.Dh.120924.1630_130924.1630_140924.1630.pdf
+
+ciclista:
+D : Diego
+M : Matilde
+E : Enzo
+
+categorie:
+m : maschile
+f : femminile
+h : handbike
+
+sigle piste:
+BA : Balocco
+BM : Battle Mountain
+GV : Gattico Veruno

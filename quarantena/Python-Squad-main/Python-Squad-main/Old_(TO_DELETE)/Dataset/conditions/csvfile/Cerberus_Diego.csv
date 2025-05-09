@@ -1,0 +1,21 @@
+Vehicle;
+name;Cerberus
+chassis_weight;
+hull_weight;
+frontal_area;
+inertia;
+leg_traction;
+crank;
+Driver;
+name;Diego
+weight;
+Wheels;
+tyre;Michelin Blue
+pressure;
+radius;0.23157
+rolling_circum;
+inertia;
+GearBox;
+gear_box;32,28,24,21,19,17,15
+chainring;60
+sec_ratio;54,17

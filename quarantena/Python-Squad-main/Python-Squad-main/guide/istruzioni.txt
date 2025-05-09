@@ -1,0 +1,44 @@
+#######
+# UML #
+#######
+
+LEGENDA:
+_
+simboli vuoti: attributi
+simboli pieni: metodi (funzioni)
+_
+colori:
+verde (cerchio): pubblici (free use)
+blu (triangolo): fare attenzione alla combo con altri metodi e all'ordine di utilizzo
+giallo (rombo): come il blu ma più soft. sono utilizzati principalmente dal codice
+rosso (quadrato): privati. attributi e metodi utilizzati esclusivamente dal codice
+nero (cerchio): da finire/(ri)scrivere
+
+##########################
+# COSA SI PUò MODIFICARE #
+##########################
+
+-nella cartella code:
+GUI_free
+main_free
+
+_ _ _
+
+come modificare la cartella di output dei file esportati (es. PDF):
+- creare una cartella nuova
+- modificare la variabile "pdfexport_path" nella libreria "util.py"
+_ _ _
+
+-nella cartella Dataset:
+cartella conditions: aggiungere file .xlsx conditions (setting della bici). Prendere gli altri come riferimento (N.B. solo le righe colorate sono realmente necessarie)
+
+cartella couples: aggiungere righe nel file .xlsx
+cartella <Nome_Ciclista>: aggiungere file .csv delle run
+
+_ _ _
+
+Non è necessario ricorrere per forza alla cartella <Nome_Ciclista>. Dall'interfaccia è possibile selezionare qualunque cartella e/o qualunque file csv
+_ _ _
+
+cartella plot_opts: aggiungere righe/modificare file .xlsx
+è possibile creare la propria configurazione personalizzata di grandezze da plottare

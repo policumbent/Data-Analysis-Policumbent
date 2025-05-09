@@ -1,0 +1,11 @@
+cartella code:
+GUI_free
+main_free
+
+cartella Dataset:
+conditions: aggiungere file .xlsx conditions (setting della bici)
+couples: aggiungere righe nel file .xlsx
+<NOME_CICLISTA>: aggiungere file .csv di run
+plot_opts: aggiungere righe/modificare file .xlsx
+
+
