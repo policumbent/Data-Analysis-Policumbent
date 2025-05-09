@@ -29,6 +29,6 @@ Tutto il materiale prodotto dalla divisione è stato spostato in "quarantena" af
 Modello matematico scritto in matlab e simulink che descrive il comportamento fisico della bici.\
 Lo scopo dello sviluppo di questo modello è analizzare le curve di potenza di Dario per ottimizzare i rapporti di trasmissione di pegasus e lavorare sulla strategia di gara per le future competizioni
 
-## record 
+## records 
 
 contiene tutti i dati delle run di Taurus, cerberus e Phoenix degli anni 2018, 2019 e 2023 
