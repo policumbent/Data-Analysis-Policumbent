@@ -31,4 +31,6 @@ Lo scopo dello sviluppo di questo modello è analizzare le curve di potenza di D
 
 ## modPilot
 
-modello in python per la descrizione del comportamento del 
+modello in python per la descrizione del comportamento del ciclista
+
+test
