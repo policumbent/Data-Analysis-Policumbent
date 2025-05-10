@@ -1,7 +1,8 @@
-#DATA ANALYSIS DIVISION 
-Modello Simulink TestSim.slx
+# Modello Simulink TestSim.slx
 
-Introduzione 
+## obiettivo
+
+Creare un modello fisico della bici in simulink che descriva in modo ccurato il comportamento di essa durante una run 
 
 - File analisi_teorica_cambio.m :
     Data la funzione sul tempo del vettore cadenza, presi i punti estremi dei segmenti, sono stati ricavati i relativi coefficienti di inclinazione, per poi utilizzarli per scrivere una nuova funzione che ricrea il vettore cadenza. 
@@ -15,8 +16,8 @@ Introduzione
         - "cadence_drop_threshold" rileva una eventuale variazione significativa di cadenza (rpm).
     Se il valore di cadenza è fuori dal threshold ed è anche oltre il cooldowntime allora cambia marcia. Abbiamo fatto diverse prove andando a modificare i rapporti di trasmissione da quelli originali, sempre con metodi iterativi per cercare di incrementare la velocità finale. 
 
-Equazioni usate 
-P = vettore_potenza 
-$ \omega$  = ["velocità angolare"] 
- c = $ \dfract{P}{\omega}  $
+Equazioni usate \
+P = vettore_potenza [ W ]\
+$ \omega $  = velocità angolare $[\dfrac{rad}{s}]$ 
+$$C = \dfrac{P}{\omega}$$
     
