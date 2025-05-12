@@ -48,5 +48,5 @@ with open(file_path, "r", encoding="utf-8") as file:
 # Creazione del DataFrame
 df = pd.DataFrame(rows, columns=["tempo", "velocità", "distanza", "latitudine", "longitudine"])
 
-# Mostra le prime righe
+
 print(df)
