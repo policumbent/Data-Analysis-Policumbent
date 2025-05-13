@@ -31,4 +31,8 @@ Lo scopo dello sviluppo di questo modello è analizzare le curve di potenza di D
 
 ## modPilot
 
-modello in python per la descrizione del comportamento del ciclista
+modello predittivo in python per la descrizione del comportamento del ciclista
+
+## cerberus0510
+
+analisi test in pista Balocco di Cerberus del 10 maggio 
