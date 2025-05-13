@@ -64,11 +64,11 @@ while df['velocità'][i] > 10:
 
 newDf = pd.DataFrame(nRows, columns=['tempo', 'velocità', 'latitudine', 'longitudine'])
 
-print(newDf)
+#print(newDf)
 
 
 #plt.plot(df['longitudine'], df['latitudine'], color='gray', linewidth=0.5, alpha=0.6)
-
+'''
 plt.figure(figsize=(10, 8))
 sc = plt.scatter(newDf['longitudine'], newDf['latitudine'], c=newDf['velocità'], cmap='viridis', s=10)
 plt.colorbar(sc, label='Velocità (km/h)')
@@ -78,4 +78,22 @@ plt.title('Tracciato geografico colorato per velocità')
 plt.grid(True)
 plt.axis('equal')
 plt.show()
+'''
 
+from matplotlib.animation import FuncAnimation
+
+fig, ax = plt.subplots(figsize=(10, 8))
+sc = ax.scatter([], [], c='blue', s=10)
+ax.set_xlim(df['longitudine'].min(), df['longitudine'].max())
+ax.set_ylim(df['latitudine'].min(), df['latitudine'].max())
+ax.set_xlabel('Longitudine')
+ax.set_ylabel('Latitudine')
+ax.set_title('Animazione del percorso nel tempo')
+ax.set_aspect('equal')
+
+def update(frame):
+    sc.set_offsets(df[['longitudine', 'latitudine']].iloc[:frame].values)
+    return sc,
+
+ani = FuncAnimation(fig, update, frames=len(df), interval=20, blit=True)
+plt.show()
