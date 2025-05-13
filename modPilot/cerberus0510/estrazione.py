@@ -51,18 +51,21 @@ df = pd.DataFrame(rows, columns=["tempo", "velocità", "distanza", "latitudine",
 #plt.plot(df['tempo'], df['velocità'])
 #plt.show()
 
-
-nRows = []
-
 i = 0
-while df['velocità'][i] < 10:
-    i += 1
 
-while df['velocità'][i] > 10:
-    nRows.append([df['tempo'][i], df['velocità'][i], df['latitudine'][i], df['longitudine'][i]])
-    i += 1
+for n in [1,2]:
+    nRows = []
 
-newDf = pd.DataFrame(nRows, columns=['tempo', 'velocità', 'latitudine', 'longitudine'])
+    while df['velocità'][i] < 10:
+        i += 1
+
+    while df['velocità'][i] > 10:
+        nRows.append([df['tempo'][i], df['velocità'][i], df['latitudine'][i], df['longitudine'][i]])
+        i += 1
+
+    newDf = pd.DataFrame(nRows, columns=['tempo', 'velocità', 'latitudine', 'longitudine'])
+
+    newDf.to_csv(f'giro{n}.csv', index=False)
 
 #print(newDf)
 
@@ -80,20 +83,37 @@ plt.axis('equal')
 plt.show()
 '''
 
-from matplotlib.animation import FuncAnimation
 
+"""from matplotlib.animation import FuncAnimation
+import numpy as np
+
+
+df = newDf.sort_values(by='tempo').reset_index(drop=True)
+
+# Setup figura
 fig, ax = plt.subplots(figsize=(10, 8))
-sc = ax.scatter([], [], c='blue', s=10)
-ax.set_xlim(df['longitudine'].min(), df['longitudine'].max())
-ax.set_ylim(df['latitudine'].min(), df['latitudine'].max())
+ax.set_xlim(newDf['longitudine'].min(), newDf['longitudine'].max())
+ax.set_ylim(df['latitudine'].min(), newDf['latitudine'].max())
 ax.set_xlabel('Longitudine')
 ax.set_ylabel('Latitudine')
 ax.set_title('Animazione del percorso nel tempo')
 ax.set_aspect('equal')
+line, = ax.plot([], [], lw=2, color='blue')  # linea animata
 
+# Funzione di inizializzazione
+def init():
+    line.set_data([], [])
+    return line,
+
+# Funzione che aggiorna il grafico per ogni frame
 def update(frame):
-    sc.set_offsets(df[['longitudine', 'latitudine']].iloc[:frame].values)
-    return sc,
+    x = df['longitudine'].iloc[:frame]
+    y = df['latitudine'].iloc[:frame]
+    line.set_data(x, y)
+    return line,
 
-ani = FuncAnimation(fig, update, frames=len(df), interval=20, blit=True)
-plt.show()
+# Crea animazione
+ani = FuncAnimation(fig, update, frames=len(df), init_func=init, interval=10, blit=True)
+
+plt.show()"""
+
