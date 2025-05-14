@@ -76,10 +76,42 @@ plt.show()'''
 
 # test 3 creazione mappa
 
+import folium
+import pandas as pd
+from geopy.distance import geodesic  # Per calcolare la distanza geografica
+
+
 mappa = folium.Map(location=[df['latitudine'][0], df['longitudine'][0]], zoom_start=14)
 
-percorso = list(zip(df['latitudine'], df['longitudine']))
-folium.PolyLine(locations=percorso, color="blue", weight=2.5, opacity=1).add_to(mappa)
+punto_partenza = (df['latitudine'][0], df['longitudine'][0])
 
-mappa.save("percorso_bici.html")
+tolleranza = 5
 
+colore = "blue"  # Colore iniziale della linea
+previous_point = None
+linea_iniziata = False
+
+percorso = []
+
+
+for i, row in df.iterrows():
+    current_point = (row['latitudine'], row['longitudine'])
+    
+    distanza = geodesic(current_point, punto_partenza).meters
+    
+    if distanza < tolleranza and not linea_iniziata:
+        colore = "green" if colore == "blue" else "blue"
+        linea_iniziata = True
+    
+    # Aggiungere il punto al percorso
+    percorso.append(current_point)
+    
+    # Aggiungere la PolyLine con il colore corrente
+    if previous_point is not None:
+        folium.PolyLine([previous_point, current_point], color=colore, weight=2.5, opacity=1).add_to(mappa)
+    
+    # Aggiornare il punto precedente
+    previous_point = current_point
+
+# Salvare la mappa in un file HTML
+mappa.save("percorso_bici_colori_cambiati.html")
