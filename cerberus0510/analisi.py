@@ -8,7 +8,7 @@ df = pd.read_csv('giro1.csv')
 
 # test 1 tutti i dati buttati iniseme 
 
-'''plt.figure(figsize=(10, 8))
+plt.figure(figsize=(10, 8))
 sc = plt.scatter(df['longitudine'], df['latitudine'], c=df['velocità'], cmap='viridis', s=10)
 plt.colorbar(sc, label='Velocità (km/h)')
 plt.xlabel('Longitudine')
@@ -16,7 +16,7 @@ plt.ylabel('Latitudine')
 plt.title('Tracciato geografico colorato per velocità')
 plt.grid(True)
 plt.axis('equal')
-plt.show()'''
+plt.show()
 
 
 # test 2 con creazione animata del percorso
@@ -50,7 +50,7 @@ ani = FuncAnimation(fig, update, frames=len(df), init_func=init, interval=10, bl
 
 plt.show()'''
 
-import numpy as np
+'''import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
 from matplotlib.animation import FuncAnimation
@@ -102,6 +102,6 @@ cbar.set_label('Velocità (km/h)')
 
 
 ani = FuncAnimation(fig, update, frames=len(segments), interval=30, blit=True)
-plt.show()
+plt.show()'''
 
 
