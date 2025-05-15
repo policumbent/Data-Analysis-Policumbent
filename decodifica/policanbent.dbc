@@ -1,0 +1,94 @@
+VERSION "0.1"
+
+BS_:
+
+BU_:
+
+BO_ 546 GbError: 1 Vector__XXX
+ SG_ GbErrCode : 0|3@1+ (1,0) [0|7] "" Vector__XXX
+ SG_ GbGear : 3|5@1+ (1,0) [0|16] "" Vector__XXX
+
+BO_ 1058 GbData: 1 Vector__XXX
+ SG_ GbGear : 0|5@1+ (1,0) [0|16] "" Vector__XXX
+
+BO_ 1057 GretaData: 2 Vector__XXX
+ SG_ TelekBattery : 0|7@1+ (1,0) [0|100] "%" Vector__XXX
+ SG_ RxShifting : 8|2@1+ (1,0) [0|3] "" Vector__XXX
+
+BO_ 1089 BobSrmPower: 2 Vector__XXX
+ SG_ SrmPower : 0|16@1+ (0.1,0) [0|1000] "W" Vector__XXX
+
+BO_ 1090 BobSrmCadence: 2 Vector__XXX
+ SG_ SrmCadence : 0|16@1+ (0.1,0) [0|1000] "rpm" Vector__XXX
+
+BO_ 1091 BobHsSpeed: 2 Vector__XXX
+ SG_ HsSpeed : 0|16@1+ (0.01,0) [0|200] "km/h" Vector__XXX
+
+BO_ 1092 BobHsDisplacement: 2 Vector__XXX
+ SG_ HsDisplacement : 0|16@1+ (0.1,0) [0|20000] "m" Vector__XXX
+
+BO_ 1094 BobHR: 1 Vector__XXX
+ SG_ HeartRate : 0|8@1+ (1,0) [0|250] "bpm" Vector__XXX
+
+BO_ 545 GretaError: 1 Vector__XXX
+ SG_ TimeOutError : 0|1@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 1120 whereamiData: 4 Vector__XXX
+ SG_ Speed : 0|16@1+ (0.01,0) [0|200] "km/h" Vector__XXX
+ SG_ Distance : 16|16@1+ (1,0) [0|20000] "m" Vector__XXX
+
+BO_ 1124 whereamiCoords: 8 Vector__XXX
+ SG_ Latitude : 0|32@1- (0.000001,0) [-90|90] "°" Vector__XXX
+ SG_ Longitude : 32|32@1- (0.000001,0) [-180|180] "°" Vector__XXX
+
+
+
+
+BO_ 640 Dumbms1Error: 1 Vector__XXX
+ SG_ Bat0UnderVolt : 0|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat1UnderVolt : 1|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat2UnderVolt : 2|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat3UnderVolt : 3|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat4UnderVolt : 4|1@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 672 Dumbms2Error: 1 Vector__XXX
+ SG_ Bat0UnderVolt : 0|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat1UnderVolt : 1|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat2UnderVolt : 2|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat3UnderVolt : 3|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Bat4UnderVolt : 4|1@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 1152 Dumbms1Data: 5 Vector__XXX
+ SG_ Bat0Voltage : 0|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat1Voltage : 8|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat2Voltage : 16|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat3Voltage : 24|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat4Voltage : 32|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+
+BO_ 1184 Dumbms2Data: 5 Vector__XXX
+ SG_ Bat0Voltage : 0|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat1Voltage : 8|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat2Voltage : 16|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat3Voltage : 24|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+ SG_ Bat4Voltage : 32|8@1+ (0.1,0) [0|15] "V" Vector__XXX
+
+BO_ 1122 whereamiRawData: 4 Vector__XXX
+ SG_ RawSpeed : 0|16@1+ (0.01,0) [0|200] "km/h" Vector__XXX
+ SG_ RawDistance : 16|16@1+ (1,0) [0|20000] "m" Vector__XXX
+
+BO_ 1128 whereamiPosUncert: 2 Vector__XXX
+ SG_ PosUncertainty : 0|16@1+ (0.01,0) [0|100] "m" Vector__XXX
+
+
+
+CM_ SG_ 640 Bat0UnderVolt "DumBMS LiPo undervoltage detected";
+CM_ SG_ 640 Bat1UnderVolt "3S slot 1 undervoltage detected ";
+CM_ SG_ 640 Bat2UnderVolt "3S slot 2 undervoltage detected";
+CM_ SG_ 640 Bat3UnderVolt "3S slot 3 undervoltage detected";
+CM_ SG_ 640 Bat4UnderVolt "3S slot 4 undervoltage detected";
+
+CM_ SG_ 672 Bat0UnderVolt "DumBMS LiPo undervoltage detected";
+CM_ SG_ 672 Bat1UnderVolt "3S slot 1 undervoltage detected ";
+CM_ SG_ 672 Bat2UnderVolt "3S slot 2 undervoltage detected";
+CM_ SG_ 672 Bat3UnderVolt "3S slot 3 undervoltage detected";
+CM_ SG_ 672 Bat4UnderVolt "3S slot 4 undervoltage detected";
