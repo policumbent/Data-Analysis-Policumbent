@@ -10,7 +10,7 @@ Creare un modello fisico della bici in simulink che descriva il suo comportament
 
     - prendere i dati relativi all'altitudine dal gps e e metterli in input per avere in output il valore della densità dell'aria sempre aggiornato 
 
-    - $ {\displaystyle \rho _{z}={\frac {P_{z}}{RT_{z}}}=\rho _{0}\left(1+{\frac {\lambda z}{T_{0}}}\right)^{-\left(1+{\frac {g}{R\lambda }}\right)}} $ : equazione per il calcolo della densità dell'aria utilizzata dall' ICAO
+    - $$ {\displaystyle \rho _{z}={\frac {P_{z}}{RT_{z}}}=\rho _{0}\left(1+{\frac {\lambda z}{T_{0}}}\right)^{-\left(1+{\frac {g}{R\lambda }}\right)}} $$ : equazione per il calcolo della densità dell'aria utilizzata dall' ICAO
 
 
     - $ \lambda = -0,0065 \frac{K}{m} $ :   gradiente termico verticale
