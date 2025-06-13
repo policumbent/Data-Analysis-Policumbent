@@ -3,7 +3,7 @@ import re
 import matplotlib.pyplot as plt
 
 
-file_path = "canlog_2025-05-10_pom-1.txt"
+file_path = "/Users/mario/Data-Analysis-Policumbent/cerberus0510/decodifica/dati.txt"
 
 rows = []
 current_time = None
@@ -65,5 +65,5 @@ for n in [1,2]:
 
     newDf = pd.DataFrame(nRows, columns=['tempo', 'velocità', 'latitudine', 'longitudine'])
 
-    newDf.to_csv(f'giro{n}.csv', index=False)
+    newDf.to_csv(f'giro{n}2.csv', index=False)
 

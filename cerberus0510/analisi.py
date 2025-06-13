@@ -109,7 +109,7 @@ def f4(df):
 
     start_long = df['longitudine_normalizzata'].iloc[0]
     start_lat = df['latitudine_normalizzata'].iloc[0]
-    var = (0.9, 1.1)
+    var = (0.985, 1.015)
 
     # Filtro booleano
     filtro = (
@@ -127,8 +127,8 @@ def f4(df):
 
 
 def f5(df):
-    inizio = 3275.009444
-    fine = 3703.93535
+    inizio = 1625.224963
+    fine = 2329.242104
 
     filtro = (df['tempo'] >= inizio) & (df['tempo'] <= fine)
     sotto_df = df[filtro]
@@ -154,7 +154,7 @@ def main():
         '5': f5
     }
 
-    df = pd.read_csv('giro2.csv')
+    df = pd.read_csv('giro12.csv')
 
     inpUt = input("inserisci numero funzione da chiamare: ")
     fnz = fn.get(inpUt.strip())
