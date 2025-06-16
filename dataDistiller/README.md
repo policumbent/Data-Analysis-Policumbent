@@ -1,0 +1,1 @@
+# decodifica e pulizia dei dati grezzi di gnss e powermeter
