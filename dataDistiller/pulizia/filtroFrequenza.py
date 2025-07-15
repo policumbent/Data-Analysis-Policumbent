@@ -2,8 +2,8 @@ import pandas as pd
 
 
 def hearthrate():
-    inpF = '../../dati/cerberus/balocco/20250614/rowdata/run2/hearthrate_13-06-2025@18_01_30.csv'
-    outF = '../../dati/cerberus/balocco/20250614/run2/hearthrateR1.csv'
+    inpF = '../../dati/cerberus/balocco/20250614/rowdata/run1/hearthrate_13-06-2025@16_50_55.csv'
+    outF = '../../dati/cerberus/balocco/20250614/run1/hearthrateR1.csv'
 
 
     df = pd.read_csv(inpF)
@@ -23,8 +23,8 @@ def hearthrate():
 
 
 def powermeter():
-    inpF = '../../dati/cerberus/balocco/20250614/rowdata/run2/powermeter_13-06-2025@18_01_30.csv'
-    outF = '../../dati/cerberus/balocco/20250614/run2/pwmR1'
+    inpF = '../../dati/cerberus/balocco/20250614/rowdata/run1/powermeter_13-06-2025@16_50_55.csv'
+    outF = '../../dati/cerberus/balocco/20250614/run1/pwmR1.csv'
 
 
     df = pd.read_csv(inpF)
@@ -51,6 +51,6 @@ def main():
     elif inp == '2':
         powermeter()
     
-    
+
 main()
 
