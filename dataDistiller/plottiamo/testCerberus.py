@@ -35,7 +35,7 @@ def plot(file1):
 
     plt.xlabel("Tempo")
     plt.ylabel("Valori")
-    plt.title("Plot Dati da due File CSV")
+    plt.title("Run 2 con interpolazione")
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
@@ -60,11 +60,11 @@ def medDev(file):
     else:
         df['coppia'] = df['instant_power']/(df['cadence']*(2*pi/60))
 
-        media1 = df['cadence'].mean()
-        media2 = df['avg_heartrate'].mean()
+        media1 = df['instant_power'].mean()
+        media2 = df['coppia'].mean()
 
-        dev1 = df['cadence'].std(ddof=0)
-        dev2 = df['avg_heartrate'].std(ddof=0)
+        dev1 = df['instant_power'].std(ddof=0)
+        dev2 = df['coppia'].std(ddof=0)
 
         print(f'cadenza: media: {media1:.2f}, deviazione standard {dev1:.2f}')
         print(f'freC: media: {media2:.2f}, deviazione standard {dev2:.2f}')
@@ -73,9 +73,9 @@ def medDev(file):
 def coppiaCadenza():
     file_label = [
         #('../../dati/cerberus/balocco/20250614/run1/run1.csv', 'Run 1.1'),
-        #('../../dati/cerberus/balocco/20250614/run1/run2.csv', 'Run 1.2'),
-        ('../../dati/cerberus/balocco/20250614/run1/run3_interpolato.csv', 'Run 1.3'),
-        #('../../dati/cerberus/balocco/20250614/run1/run4.csv', 'Run 1.4'),
+        #('../../dati/cerberus/balocco/20250614/run1/run2.csv', 'step 1'),
+        #('../../dati/cerberus/balocco/20250614/run1/run3_interpolato.csv', 'step 2'),
+        #('../../dati/cerberus/balocco/20250614/run1/run4.csv', 'step 3'),
         ('../../dati/cerberus/balocco/20250614/run2/run2_interpolato.csv', 'Run 2')
     ]
 
@@ -99,7 +99,7 @@ def coppiaCadenza():
         y_pred = model.predict(x_range_poly)
 
         plt.plot(x_range, y_pred, label=f'{label} (fit)')
-        #plt.scatter(X, y, alpha=0.2, label=f'{label} dati')
+        plt.scatter(X, y, alpha=0.2, label=f'{label} dati')
 
     plt.xlabel('Cadenza (rpm)')
     plt.ylabel('Coppia (Nm)')
@@ -112,7 +112,7 @@ def coppiaCadenza():
 
 
 def main():
-    file = '../../dati/cerberus/balocco/20250614/run1/run3_interpolato.csv'  
+    file = '../../dati/cerberus/balocco/20250614/run2/run2_interpolato.csv'  
     inp = input('(1) plot (2) media e deviazione, (3) interpolazione: ')
 
     if inp == '1':

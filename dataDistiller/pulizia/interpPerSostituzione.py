@@ -41,11 +41,11 @@ def manual_interpolation_all(df, colonna_timestamp='timestamp'):
 
 
 def main():
-    df = pd.read_csv('../../dati/cerberus/balocco/20250614/run1/run4.csv')
+    df = pd.read_csv('../../dati/cerberus/balocco/20250614/run2/run2.csv')
 
     df_modificato = manual_interpolation_all(df)
 
-    df_modificato.to_csv('../../dati/cerberus/balocco/20250614/run1/run4_interpolato.csv', index=False)
+    df_modificato.to_csv('../../dati/cerberus/balocco/20250614/run2/run2_interpolato.csv', index=False)
 
 
 main()
