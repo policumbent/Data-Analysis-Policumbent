@@ -1,4 +1,4 @@
-timestamp,altitude,heart_rate,cadence,distance,speed,power
+timestamp,altitude,avg_heartrate,cadence,distance,speed,instant_power
 2023-09-15T19:03:06,1464,117,47,5.72,16.427,151
 2023-09-15T19:03:07,1464,117,48,11.56,18.81,147
 2023-09-15T19:03:08,1464,122,50,18.18,21.06,171

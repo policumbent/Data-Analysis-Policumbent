@@ -63,7 +63,7 @@ def medDev(file):
         media1 = df['instant_power'].mean()
         media2 = df['coppia'].mean()
 
-        dev1 = df['instant_power'].std(ddof=0)
+        dev1 = df[' '].std(ddof=0)
         dev2 = df['coppia'].std(ddof=0)
 
         print(f'cadenza: media: {media1:.2f}, deviazione standard {dev1:.2f}')
@@ -73,10 +73,14 @@ def medDev(file):
 def coppiaCadenza():
     file_label = [
         #('../../dati/cerberus/balocco/20250614/run1/run1.csv', 'Run 1.1'),
-        #('../../dati/cerberus/balocco/20250614/run1/run2.csv', 'step 1'),
-        #('../../dati/cerberus/balocco/20250614/run1/run3_interpolato.csv', 'step 2'),
-        #('../../dati/cerberus/balocco/20250614/run1/run4.csv', 'step 3'),
-        ('../../dati/cerberus/balocco/20250614/run2/run2_interpolato.csv', 'Run 2')
+        ('../../dati/cerberus/balocco/20250614/run1/run2.csv', 'step 1'),
+        ('../../dati/cerberus/balocco/20250614/run1/run3_interpolato.csv', 'step 2'),
+        ('../../dati/cerberus/balocco/20250614/run1/run4.csv', 'step 3'),
+        #('../../dati/cerberus/balocco/20250614/run2/run2_interpolato.csv', 'Run 2'),
+        #('../../dati/BM_23/Cerberus/Diego_13_09_2023_AM_2.csv', '1309AM'),
+        #('../../dati/BM_23/Cerberus/Diego_15_09_2023_AM_2.csv', '1509AM'),
+        #('../../dati/BM_23/Cerberus/Diego_15_09_2023_PM_2.csv', '1509PM'),
+        #('../../dati/BM_23/Cerberus/Diego_16_09_2023_AM_2.csv', '1609AM')
     ]
 
     # Setup fit
@@ -99,7 +103,7 @@ def coppiaCadenza():
         y_pred = model.predict(x_range_poly)
 
         plt.plot(x_range, y_pred, label=f'{label} (fit)')
-        plt.scatter(X, y, alpha=0.2, label=f'{label} dati')
+        #plt.scatter(X, y, alpha=0.2, label=f'{label} dati')
 
     plt.xlabel('Cadenza (rpm)')
     plt.ylabel('Coppia (Nm)')
@@ -112,7 +116,7 @@ def coppiaCadenza():
 
 
 def main():
-    file = '../../dati/cerberus/balocco/20250614/run2/run2_interpolato.csv'  
+    file = '../../dati/BM_23/Cerberus/Diego_16_09_2023_AM_2.csv'  
     inp = input('(1) plot (2) media e deviazione, (3) interpolazione: ')
 
     if inp == '1':
