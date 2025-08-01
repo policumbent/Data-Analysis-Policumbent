@@ -17,12 +17,12 @@ def creaFile(df, p):
 
 
 def controllo(df):
-    plot = False
+    plot = True
 
     if plot:
         pl.figure(1)
-        pl.plot(df['timestamp'], df['cadence'])
-        pl.plot(df['timestamp'], df['speed'])
+        for col in ['cadence', 'instant_power', 'coppia']:
+            pl.plot(df['timestamp'], df[col], label=col)
 
 
     d = 0.93
@@ -38,49 +38,39 @@ def controllo(df):
                 
    
     if plot:
+        pl.legend()
         pl.show()
 
     return p
 
 
-def interpola(df, p):
+def interpola(df,val1, val2):
+    plot = True
     degree = 2
+
     poly = PolynomialFeatures(degree=degree)
-    x_range = np.linspace(40, 100, 100).reshape(-1, 1)
-    a = 0
-    b = 1
-
-    for i in p:
-        X = df['cadence'][a:i].values.reshape(-1, 1)
-        y = df['coppia'][a:i].values
-
-        X_poly = poly.fit_transform(X)
-        model = LinearRegression().fit(X_poly, y)
-
-        x_range_poly = poly.transform(x_range)
-        y_pred = model.predict(x_range_poly)
-
-        pl.plot(x_range, y_pred, label = f'marcia {b}')
-        b+=1
-
-        
-        a = i
     
-    X = df['cadence'].values.reshape(-1, 1)
-    y = df['coppia'].values
+    x = df[val1].values.reshape(-1, 1)
+    y = df[val2].values
 
-    X_poly = poly.fit_transform(X)
-    model = LinearRegression().fit(X_poly, y)
+    x_poly = poly.fit_transform(x)
+    model = LinearRegression().fit(x_poly, y)
 
-    x_range_poly = poly.transform(x_range)
-    y_pred = model.predict(x_range_poly)
+    y_pred = model.predict(x_poly)
 
-    pl.plot(x_range, y_pred, label = 'tot')
+    if plot:
+        pl.figure('int')
+        pl.scatter(df[val1], df[val2], label='punti')
+        pl.plot(df[val1], y_pred, label='interpolazione')
+        pl.xlabel('cadenza [rpm]')
+        pl.ylabel('coppia [N/m]')
+        pl.title('curva Coppia - Cadenza')
+        pl.legend()
+        pl.show()
 
 
-    pl.legend()
-    pl.show()
-
+    return y_pred
+  
 
 def analisi(df, p):
     pl.figure(1)
@@ -101,29 +91,67 @@ def analisi(df, p):
         a = i
     
 
-def main():
-    file = '../../dati/cerberus/nevada/20230916/Diego_16_09_2023_AM_2.csv'
-    df = pd.read_csv(file)
-    df['timestamp'] = pd.to_datetime(df['timestamp'])
+def anMarcia(df):
+    plot = True
+    medDev = False
+    newMean = True
+
     df['coppia'] = df['instant_power']/(df['cadence']*(pi/30))
 
-    controllo = False
-    divisione = False
-    interpola = False
-    analisi = False
+    if newMean:
+        df['power'] = np.ones((1, len(df))).T
+        for i in range(len(df)):
+            if i == 0:
+                df['power'][i] = df['instant_power'][i]
+            
+            else:
+                media = (df['instant_power'][i]+df['power'][i-1])/2
+                df['power'][i] = media
 
-    if controllo:
+        df['nCoppia'] = df['power']/(df['cadence']*(pi/30))
+
+        
+        interpola(df, 'cadence', 'coppia')
+
+    if medDev:
+        media = df['instant_power'].mean()
+        dev = df['instant_power'].std(ddof=1)
+
+        print(f'media: {media:.2f}, deviazione: {dev:.2f}')
+
+    if plot:
+        pl.figure('pot')
+        for col in ['power', 'instant_power', 'cadence']:
+            pl.plot(df['timestamp'], df[col], label = col)
+        pl.legend()
+        pl.show()
+
+
+def main():
+    control = True
+    divisione = False
+    analisiV = False
+    analisiMarcia = False
+
+    if control:
+        file = '../../dati/rowData/csv_file/powermeter/powermeter_10-09-2024@07min2.csv'
+        df = pd.read_csv(file)
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        df['coppia'] = df['instant_power']/(df['cadence']*(pi/30))
+
         p = controllo(df)
 
-    if interpola:
-        interpola(df, p)
+        if analisiV:  
+            analisi(df, p)
 
-    if analisi:  
-        analisi(df, p)
-
-    if divisione:
-        creaFile(df, p)
-
+        if divisione:
+            creaFile(df, p)
+    
+    if analisiMarcia:
+        file = '../../dati/cerberus/nevada/20230916/divMarcie/marcia5.csv'
+        df = pd.read_csv(file)
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        anMarcia(df)
 
 
 main()

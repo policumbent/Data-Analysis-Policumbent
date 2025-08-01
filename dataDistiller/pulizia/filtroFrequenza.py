@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 
 def hearthrate(inpF, outF):
@@ -81,27 +82,60 @@ def controlloRigheNulle(inpF, outF):
     plt.grid(True)
     plt.tight_layout()
     plt.show()
-   
+
+
+def normalizza(df, f):
+    if f:
+        df['second'] = df['timestamp'].dt.floor('S')
+        df_avg = df.groupby('second')[['power', 'instant_power', 'cadence']].mean().reset_index()
+        df_avg.rename(columns={'second': 'timestamp'}, inplace=True)
+
+        return df_avg
+
+
+def accoppia(df, n0):
+    path = '../../dati/rowData/csv_file/hearthrate'
+    
+    pR = df['timestamp'].head(1).iloc[0]
+    print(pR)
+
+    n1 = n0.strip().split('@')
+    n2 = n1[0].split('_')
+
+    for nf in os.listdir(path):
+        if n2[1] in nf:
+            pathF = os.path.join(path, nf)
+            dfh = pd.read_csv(pathF)
+            dfh['timestamp'] = pd.to_datetime(dfh['timestamp'])
+            if pR in dfh['timestamp'].values:
+                print(nf)
+
+
+def byDir(path):
+    for nf in os.listdir(path):
+        if '.csv' in nf:
+            pathF = os.path.join(path, nf)
+
+            print(nf)
+
+            df = pd.read_csv(pathF)
+            df['timestamp'] = pd.to_datetime(df['timestamp'])
+
+            ndf = normalizza(df, True)
+
+            accoppia(ndf, nf)
+
+
+
+            break
 
 
 def main():
-    inpF = '../../dati/cerberus/balocco/20250614/run2/run2.csv'
-    inpF2 = '../../dati/cerberus/balocco/20250614/run2/hearthrateR1.csv'
-    outF = '../../dati/cerberus/balocco/20250614/run2/run2.csv'
 
-    inp = input('(1) hearthrate, (2) powermeter, (3) unifica, (4) controlla: ')
+    src_path = '../../dati/rowData/csv_file/powermeter'
 
-    if inp == '1':
-        hearthrate(inpF, outF)
-    
-    elif inp == '2':
-        powermeter(inpF, outF)
-    
-    elif inp == '3':
-        unifica(inpF, inpF2, outF)
-    
-    elif inp == '4':
-        controlloRigheNulle(inpF, outF)
+    byDir(src_path)
+
     
 
 main()
