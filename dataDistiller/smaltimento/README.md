@@ -1,6 +1,6 @@
 # analisi cartella all_logs
 
-NON AVVIARE IL FILE main.py PER NESSUN MOTIVO
+NON AVVIARE IL FILE csvFile.py e logFile.py PER NESSUN MOTIVO
 
 ## file 
     - senza estensione con i log 

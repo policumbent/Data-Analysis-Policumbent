@@ -25,7 +25,7 @@ def manual_interpolation_all(df, colonna_timestamp='timestamp'):
             prima = int(input("Quante righe PRIMA vuoi includere nell’interpolazione? "))
             dopo = int(input("Quante righe DOPO? "))
         except ValueError:
-            print("⚠️ Input non valido, salto il punto.")
+            print("Input non valido, salto il punto.")
             continue
 
         inizio = max(0, idx - prima)

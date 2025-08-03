@@ -1,0 +1,9621 @@
+ (000.000000)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.002771)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (000.070915)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.141855)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.212832)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.283733)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.354676)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.425620)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.496552)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.567501)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.638448)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.709367)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.780298)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.851244)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.922185)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.993142)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.002702)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (001.064072)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.135020)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.205949)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.276909)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.347828)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.418786)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.489710)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.560649)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.631590)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.702523)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.773456)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.844387)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.915332)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.986256)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.002674)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (002.057183)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.128108)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.199045)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.269981)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.340905)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.411843)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.482763)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.553697)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.624622)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.695554)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.766489)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.837420)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.908351)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.979274)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.002634)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (003.050203)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.121130)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.192056)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.262991)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.333928)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.404876)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.475790)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.546729)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.617635)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.688569)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.759532)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.830472)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.901408)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.972344)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.002636)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (004.043303)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.114245)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.185193)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.256135)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.327068)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.398016)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.468937)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.539865)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.610806)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.681717)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.752664)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.823595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.894536)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.965481)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.002578)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (005.036395)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.107351)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.178290)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.249212)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.320162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.391080)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.462014)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.532948)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.603875)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.674806)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.745737)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.816672)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.887613)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.958555)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.002559)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (006.029493)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.100429)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.171374)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.242318)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.313260)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.384200)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.455122)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.526169)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.597030)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.667970)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.738915)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.809866)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.880805)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.951754)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.002534)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (007.022683)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.093624)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.164564)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.235504)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.306461)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.377396)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.448341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.519287)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.590240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.661191)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.732141)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.803082)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.874024)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.944958)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.002512)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (008.015877)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.086838)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.157781)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.228716)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.299656)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.370595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.441527)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.512475)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.583415)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.654349)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.725294)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.796241)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.867180)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.938125)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.002487)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (009.009269)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.080014)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.150962)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.221913)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.292871)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.363818)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.434767)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.505728)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.576669)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.647625)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.718592)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.789542)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.860498)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.931448)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.002385)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.002592)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (010.073336)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.144286)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.215226)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.286180)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.357130)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.428073)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.499033)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.569978)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.640918)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.711857)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.782798)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.853748)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.924715)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.995660)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.002390)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (011.066610)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.137556)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.208500)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.279450)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.350400)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.421338)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.492281)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.563222)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.634159)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.705102)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.776030)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.846970)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.917918)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.988855)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.002388)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (012.059813)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.130750)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.201700)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.272628)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.343616)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.414516)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.485453)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.556391)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.627348)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.698277)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.769217)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.840153)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.911097)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.982031)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.002356)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (013.052980)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.123910)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.194870)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.265810)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.336743)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.407716)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.478637)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.549584)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.620530)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.691476)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.762413)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.833350)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.904298)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.975240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.002315)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (014.046237)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.117114)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.188044)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.258984)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.329910)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.400857)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.471816)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.542714)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.613656)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.684589)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.755522)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.826472)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.897402)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.968356)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.002303)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (015.039477)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.110242)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.181185)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.252137)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.323080)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.394019)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.464959)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.535902)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.606840)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.677782)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.748731)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.819673)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.890612)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.961572)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.002281)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (016.032514)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.103459)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.174390)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.245330)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.316276)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.387201)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.458144)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.529096)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.600015)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.670948)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.741899)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.812812)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.883745)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.954676)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.002254)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (017.025588)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.096506)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.167437)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.238364)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.309281)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.380191)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.451117)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.522052)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.592972)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.663897)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.734818)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.805751)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.876697)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.947608)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.002219)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (018.018539)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.089470)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.160389)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.231306)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.302237)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.373162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.444086)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.514992)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.585901)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.656832)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.727737)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.798655)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.869570)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.940500)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.002182)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (019.011430)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.082364)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.153263)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.224197)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.295106)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.366027)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.436943)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.507873)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.578810)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.649730)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.720689)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.791618)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.862509)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.933428)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.002174)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (020.004312)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.075260)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.146206)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.217108)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.288029)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.358975)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.429874)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.500793)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.571715)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.642623)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.713532)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.784450)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.855366)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.926272)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.997190)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.002110)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (021.068112)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.139064)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.209956)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.280878)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.351824)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.422716)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.493645)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.564585)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.635496)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.706410)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.777324)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.848239)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.919154)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.990066)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.002095)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (022.060989)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.131906)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.202830)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.273763)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.344670)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.415595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.486506)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.557440)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.628357)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.699282)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.770204)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.841122)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.912045)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (022.982963)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.002069)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (023.053889)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.124808)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.195747)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.266666)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.337613)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.408525)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.479456)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.550392)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.621318)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.692242)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.763163)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.834087)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.905035)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (023.975950)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.002045)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (024.046871)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.117800)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.188730)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.259666)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.330569)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.401485)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.472412)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.543341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.614274)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.685170)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.756085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.827014)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.897945)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (024.968886)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.002010)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (025.039809)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.110747)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.181656)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.252577)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.323509)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.394426)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.465365)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.536274)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.607201)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.678125)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.749030)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.819942)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.890847)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (025.961762)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.001981)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (026.032652)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.103575)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.174485)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.245411)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.316341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.387245)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.458188)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.529090)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.600005)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.670928)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.741840)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.812769)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.883690)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (026.954622)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.001962)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (027.025529)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.096451)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.167367)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.238280)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.309200)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.380108)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.451033)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.521936)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.592861)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.663794)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.734709)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.805639)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.876556)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (027.947490)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.001933)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (028.018405)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.089321)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.160241)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.231164)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.302088)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.372995)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.443914)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.514813)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.585726)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.656646)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.727572)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.798492)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.869400)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (028.940332)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.001896)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (029.011227)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.082166)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.153083)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.223989)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.294917)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.365835)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.436766)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.507684)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.578606)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.649504)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.720433)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.791357)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.862259)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (029.933178)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.001860)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (030.004094)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.075016)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.145933)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.216850)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.287765)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.358673)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.429605)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.500522)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.571454)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.642362)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.713272)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.784188)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.855108)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.926056)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (030.996968)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.001814)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (031.067899)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.138807)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.209726)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.280648)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.351556)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.422475)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.493387)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.564294)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.635214)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.706120)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.777053)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.847946)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.918862)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (031.989772)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.001800)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (032.060681)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.131606)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.202507)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.273434)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.344344)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.415252)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.486178)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.557076)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.628001)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.698899)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.769816)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.840741)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.911657)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (032.982571)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.001776)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (033.053489)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.124403)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.195338)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.266229)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.337137)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.408053)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.478969)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.549902)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.620806)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.691734)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.762654)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.833570)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.904493)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (033.975405)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.001742)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (034.046317)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.117250)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.188155)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.259074)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.330000)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.400914)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.471826)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.542748)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.613661)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.684595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.755520)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.826444)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.897378)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (034.968298)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.001723)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (035.039220)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.110152)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.181075)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.252002)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.322919)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.393832)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.464745)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.535663)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.606568)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.677487)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.748392)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.819306)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.890244)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (035.961143)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.001689)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (036.032052)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.102969)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.173887)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.244802)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.315726)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.386632)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.457550)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.528468)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.599383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.670294)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.741220)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.812129)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.883042)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (036.953951)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.001671)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (037.024875)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.095759)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.166677)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.237582)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.308490)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.379408)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.450319)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.521223)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.592136)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.663050)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.733953)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.804877)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.875779)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (037.946693)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.001629)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (038.017610)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.088511)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.159430)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.230345)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.301266)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.372173)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.443096)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.514016)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.584930)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.655852)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.726762)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.797675)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.868584)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (038.939495)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.001596)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (039.010500)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.081322)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.152221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.223127)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.294048)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.364951)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.435868)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.506783)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.577690)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.648599)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.719514)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.790424)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.861342)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (039.932240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.001567)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (040.003127)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.074065)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.144998)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.215909)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.286832)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.357734)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.428651)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.499586)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.570489)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.641402)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.712322)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.783243)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.854178)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.925103)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (040.996026)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.001514)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (041.066952)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.137881)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.208803)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.279739)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.350651)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.421579)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.492499)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.563417)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.634355)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.705277)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.776180)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.847098)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.918016)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (041.988921)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.001510)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (042.059845)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.130744)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.201651)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.272571)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.343488)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.414404)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.485331)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.556229)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.627147)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.698064)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.768980)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.839905)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.910821)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (042.981734)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.001469)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (043.052644)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.123564)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.194480)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.265405)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.336314)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.407220)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.478135)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.549043)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.619948)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.690865)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.761766)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.832671)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.903588)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (043.974498)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.001445)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (044.045407)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.116340)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.187248)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.258159)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.329075)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.399997)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.470920)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.541831)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.612746)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.683654)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.754563)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.825472)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.896392)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (044.967306)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.001410)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (045.038216)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.109135)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.180038)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.250985)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.321872)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.392774)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.463675)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.534591)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.605496)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.676425)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.747323)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.818234)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.889136)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (045.960048)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.001390)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (046.030963)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.101881)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.172775)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.243681)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.314594)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.385502)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.456422)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.527325)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.598227)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.669158)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.740075)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.810997)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.881943)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (046.952858)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.001376)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (047.023782)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.094693)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.165606)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.236524)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.307452)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.378353)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.449258)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.520181)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.591080)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.662014)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.732900)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.803779)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.874690)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (047.945592)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.001333)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (048.016481)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.087399)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.158297)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.229192)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.300082)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.371002)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.441891)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.512797)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.583702)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.654611)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.725520)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.796426)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.867327)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (048.938235)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.001309)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (049.009154)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.080068)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.150975)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.221886)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.292814)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.363713)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.434617)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.505550)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.576447)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.647359)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.718272)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.789196)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.860094)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (049.931003)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.001283)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (050.001883)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.072833)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.143746)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.214664)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.285572)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.356491)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.427413)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.498338)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.569246)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.640158)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.711094)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.781995)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.852908)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.923848)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (050.994750)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.001238)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (051.065664)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.136594)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.207497)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.278415)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.349342)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.420253)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.491166)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.562099)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.632990)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.703904)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.774818)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.845736)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.916657)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (051.987593)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.001216)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (052.058505)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.129419)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.200322)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.271239)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.342153)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.413055)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.483976)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.554888)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.625797)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.696720)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.767626)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.838538)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.909469)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (052.980377)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.001164)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (053.051294)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.122216)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.193121)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.264041)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.334966)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.405885)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.476811)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.547724)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.618653)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.689559)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.760473)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.831388)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.902296)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (053.973214)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.001150)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (054.044153)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.115053)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.185969)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.256901)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.327820)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.398747)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.469662)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.540591)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.611521)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.682429)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.753366)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.824266)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.895194)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (054.966117)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.001113)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (055.037051)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.107961)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.178888)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.249817)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.320717)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.391640)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.462550)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.533458)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.604383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.675305)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.746239)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.817155)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.888077)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (055.958995)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.001092)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (056.030001)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.100820)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.171713)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.242640)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.313513)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.384416)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.455338)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.526256)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.597188)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.668076)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.739016)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.809904)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.880816)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (056.951747)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.001055)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (057.022670)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.093564)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.164465)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.235386)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.306286)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.377198)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.448126)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.519024)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.589936)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.660842)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.731737)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.802633)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.873542)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (057.944454)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.001031)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (058.015411)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.086261)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.157174)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.228076)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.298983)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.369890)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.440810)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.511714)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.582615)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.653526)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.724435)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.795336)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.866237)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (058.937139)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.000996)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (059.008038)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.078951)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.149859)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.220761)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.291668)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.362572)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.433475)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.504378)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.575285)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.646228)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.717113)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.788025)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.858935)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (059.929838)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.000758)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.000976)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (060.071661)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.142594)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.213480)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.284383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.355297)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.426183)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.497090)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.567998)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.638915)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.709797)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.780703)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.851619)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.922505)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (060.993413)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.000918)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (061.064328)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.135237)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.206152)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.277048)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.347972)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.418880)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.489792)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.560709)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.631614)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.702515)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.773416)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.844328)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.915241)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (061.986140)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.000913)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (062.057055)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.127953)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.198867)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.269774)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.340690)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.411596)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.482511)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.553425)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.624333)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.695247)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.766164)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.837065)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.907984)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (062.978886)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.000878)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (063.049800)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.120701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.191613)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.262530)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.333416)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.404336)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.475253)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.546174)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.617070)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.687980)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.758906)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.829792)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.900693)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (063.971599)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.000847)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (064.042521)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.113414)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.184326)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.255240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.326143)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.397050)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.467987)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.538862)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.609783)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.680717)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.751602)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.822509)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.893423)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (064.964314)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.000823)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (065.035221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.106141)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.177030)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.247936)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.318845)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.389734)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.460643)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.531562)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.602454)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.673357)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.744274)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.815176)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.886083)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (065.956996)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.000807)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (066.027907)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.098829)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.169717)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.240636)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.311557)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.382451)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.453358)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.524269)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.595169)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.666106)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.736995)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.807902)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.878808)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (066.949710)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.000761)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (067.020679)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.091516)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.162424)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.233346)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.304251)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.375166)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.446068)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.516970)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.587882)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.658783)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.729698)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.800575)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.871468)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (067.942379)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.000729)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (068.013262)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.084180)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.155081)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.225983)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.296874)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.367776)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.438688)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.509574)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.580478)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.651377)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.722277)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.793202)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.864079)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (068.934983)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.000705)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (069.005924)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.076782)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.147686)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.218584)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.289498)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.360382)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.431287)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.502214)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.573096)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.644004)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.714898)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.785799)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.856701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.927593)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (069.998496)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.000668)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (070.069385)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.140290)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.211173)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.282067)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.352982)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.423885)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.494802)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.565694)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.636595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.707500)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.778392)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.849292)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.920189)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (070.991094)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.000644)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (071.061998)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.132911)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.203827)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.274722)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.345647)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.416541)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.487456)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.558383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.629250)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.700150)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.771039)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.841945)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.912848)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (071.983750)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.000615)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (072.054657)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.125545)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.196454)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.267367)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.338264)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.409183)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.480074)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.550973)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.621868)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.692757)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.763667)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.834554)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.905467)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (072.976346)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.000572)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (073.047240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.118129)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.189031)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.259959)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.330834)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.401736)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.472636)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.543528)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.614442)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.685331)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.756228)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.827105)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.898000)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (073.968906)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.000541)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (074.039803)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.110718)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.181592)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.252490)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.323396)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.394285)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.465191)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.536085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.606979)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.677895)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.748786)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.819691)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.890596)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (074.961493)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.000516)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (075.032408)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.103290)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.174194)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.245100)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.316004)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.386906)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.457814)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.528714)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.599619)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.670541)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.741430)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.812322)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.883223)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (075.954137)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.000494)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (076.025020)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.095935)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.166830)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.237739)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.308655)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.379544)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.450438)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.521341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.592240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.663154)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.734037)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.804938)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.875842)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (076.946735)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.000458)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (077.017615)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.088519)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.159417)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.230323)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.301205)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.372102)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.443008)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.513892)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.584780)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.655688)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.726577)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.797485)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.868386)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (077.939292)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.000429)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (078.010334)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.081107)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.152006)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.222910)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.293795)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.364699)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.435607)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.506501)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.577391)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.648283)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.719164)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.790075)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.860951)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (078.931848)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.000403)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (079.002783)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.073626)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.144528)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.215419)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.286316)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.357210)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.428099)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.498986)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.569890)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.640778)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.711662)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.782556)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.853454)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.924365)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (079.995251)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.000356)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (080.066156)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.137075)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.207955)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.278848)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.349753)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.420633)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.491520)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.562410)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.633309)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.704206)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.775083)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.845974)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.916878)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (080.987760)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.000331)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (081.058654)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.129553)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.200460)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.271326)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.342221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.413106)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.484015)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.554895)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.625794)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.696701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.767595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.838478)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.909383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (081.980265)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.000287)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (082.051166)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.122064)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.192968)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.263863)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.334755)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.405652)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.476558)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.547452)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.618344)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.689249)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.760129)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.831033)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.901942)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (082.972841)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.000285)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (083.043747)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.114667)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.185547)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.256437)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.327329)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.398233)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.469119)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.540027)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.610925)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.681805)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.752701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.823604)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.894488)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (083.965388)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.000243)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (084.036291)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.107171)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.178074)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.248962)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.319865)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.390745)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.461645)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.532537)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.603430)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.674316)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.745214)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.816113)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.887008)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (084.957897)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.000213)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (085.028804)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.099671)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.170564)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.241449)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.312326)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.383205)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.454095)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.524980)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.595874)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.666774)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.737667)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.808557)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.879450)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (085.950348)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.000199)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (086.021321)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.092140)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.163039)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.233915)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.304806)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.375709)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.446566)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.517462)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.588353)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.659231)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.730121)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.801003)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.871893)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (086.942784)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.000155)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (087.013663)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.084566)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.155444)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.226329)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.297232)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.368111)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.439005)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.509886)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.580783)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.651677)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.722568)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.793449)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.864329)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (087.935221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.000124)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (088.006112)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.077017)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.147910)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.218803)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.289708)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.360584)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.431468)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.502371)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.573245)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.644136)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.715035)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.785919)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.856809)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.927690)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (088.998593)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.000079)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (089.069470)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.140364)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.211252)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.282146)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.353031)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.423921)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.494805)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.565687)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.636569)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.707449)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.778332)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.849226)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.920110)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (089.991025)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.000064)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (090.061904)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.132791)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.203676)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.274570)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.345418)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.416294)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.487202)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.558085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.628991)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.699868)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.770763)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.841637)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.912519)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (090.983425)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.000026)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (091.054304)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.125193)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.196072)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.266967)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.337843)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.408723)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.479635)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.550494)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.621375)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.692264)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.763155)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.834035)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.904924)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (091.975820)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.000001)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (092.046699)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.117588)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.188471)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.259369)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.330239)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.401136)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.472039)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.542926)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.613820)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.684710)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.755609)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.826484)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.897383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.968279)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (092.999972)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (093.039189)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.110078)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.180977)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.251867)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.322769)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.393653)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.464544)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.535451)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.606345)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.677253)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.748120)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (093.818740)  can0  421   [2]  00 02 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 2
+)
+ (093.889627)  can0  421   [2]  00 02 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 2
+)
+ (093.960507)  can0  421   [2]  00 02 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 2
+)
+ (093.999940)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (094.031671)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.102547)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.173433)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.244325)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.315217)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.385866)  can0  421   [2]  00 01 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 1
+)
+ (094.456747)  can0  421   [2]  00 01 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 1
+)
+ (094.527626)  can0  421   [2]  00 01 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 1
+)
+ (094.598786)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.669670)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.740560)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.811458)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.882341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.953233)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (094.999919)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (095.024111)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.095010)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.165880)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.236778)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.307657)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.378538)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.449425)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.520309)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.591199)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.662084)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.732970)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.803848)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.874730)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.945617)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (095.999880)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (096.016508)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.087383)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.158264)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.229153)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.300041)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.370921)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.441833)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.512698)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.583588)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.654462)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.725346)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.796244)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.867136)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.938020)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (096.999848)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (097.008888)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.079779)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.150666)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.221578)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.292445)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.363340)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.434238)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.505129)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.576028)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.646920)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.717794)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.788675)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.859565)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.930445)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (097.999822)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (098.001333)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.072221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.143102)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.213982)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.284872)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.355763)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.426667)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.497545)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.568420)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.639297)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.710182)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.781068)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.851962)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.922835)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.993717)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (098.999769)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (099.064601)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.135482)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.206379)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.277254)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.348132)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.419019)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.489915)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.560792)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.631698)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.702560)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.773432)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.844319)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.915205)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.986085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (099.999759)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (100.056973)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.127848)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.198742)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.269621)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.340507)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.411394)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.482313)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.553174)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.624063)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.694944)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.765833)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.836737)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.907603)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.978488)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (100.999723)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (101.049376)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.120264)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.191152)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.262050)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.332929)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.403807)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.474683)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.545574)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.616457)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.687344)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.758225)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.829110)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.899978)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.970857)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (101.999698)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (102.041741)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.112619)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.183498)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.254387)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.325263)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.396141)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.467094)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.537902)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.608778)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.679659)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.750537)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.821418)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.892316)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.963180)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (102.999663)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (103.034047)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.104921)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.175793)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.246667)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.317530)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.388405)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.459274)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.530144)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.601010)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.671895)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.742765)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.813634)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.884511)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.955389)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (103.999644)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (104.026244)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.097158)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.168023)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.238915)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.309782)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.380654)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.451544)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.522418)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.593289)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.664162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.735041)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.805918)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.876801)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.947666)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (104.999624)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (105.018532)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.089407)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.160272)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.231142)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.302023)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.372894)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.443772)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.514646)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.585519)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.656398)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.727272)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.798133)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.869001)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.939862)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (105.999584)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (106.010705)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.081606)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.152480)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.223338)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.294211)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.365079)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.435946)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.506830)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.577701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.648578)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.719452)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.790331)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.861207)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.932091)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (106.999554)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (107.002945)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.073849)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.144728)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.215602)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.286493)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.357367)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.428237)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.499115)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.569996)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.640874)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.711788)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.782638)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.853526)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.924402)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.995280)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (107.999488)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (108.066155)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.137052)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.207916)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.278796)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.349671)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.420546)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.491428)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.562309)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.633186)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.704076)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.774961)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.845840)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.916733)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.987597)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (108.999479)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (109.058459)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.129330)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.200197)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.271063)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.341946)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.412808)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.483681)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.554569)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.625429)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.696307)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.767171)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.838044)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.908925)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.979786)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (109.999466)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (110.050658)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.121543)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.192414)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.263289)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.334157)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.405024)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.475898)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.546779)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.617643)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.688518)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.759390)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.830261)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.901145)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.972015)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (110.999424)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (111.042875)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.113751)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.184623)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.255500)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.326381)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.397257)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.468123)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.539002)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.609868)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.680736)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.751619)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.822484)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.893359)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.964230)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (111.999400)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (112.035097)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.105970)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.176849)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.247705)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.318576)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.389449)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.460326)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.531209)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.602074)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.672936)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.743797)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.814663)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.885540)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.956437)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (112.999370)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (113.027295)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.098170)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.169055)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.239930)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.310808)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.381701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.452571)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.523452)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.594321)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.665197)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.736077)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.806961)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.877836)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.948714)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (113.999337)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (114.019592)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.090468)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.161370)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.232228)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.303106)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.373988)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.444876)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.515759)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.586649)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.657532)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.728412)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.799306)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.870181)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.941076)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (114.999307)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (115.011953)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.082826)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.153706)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.224576)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.295454)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.366341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.437216)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.508098)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.578977)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.649865)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.720752)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.791660)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.862535)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.933421)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (115.999283)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (116.004278)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.075195)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.146085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.216972)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.287850)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.358728)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.429616)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.500496)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.571392)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.642251)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.713136)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.784008)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.854884)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.925761)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.996647)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (116.999218)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (117.067516)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.138387)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.209263)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.280140)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.351015)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.421906)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.492775)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.563658)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.634529)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.705406)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.776291)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.847160)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.918026)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.988899)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (117.999192)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (118.059774)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.130632)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.201513)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.272371)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.343239)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.414108)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.484986)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.555858)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.626742)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.697601)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.768473)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.839341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.910204)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.981079)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (118.999180)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (119.051945)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.122820)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.193681)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.264553)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.335414)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.406284)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.477156)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.548022)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.618895)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.689764)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.760626)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.831502)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.902362)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.973247)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (119.999135)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (120.044116)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.114989)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.185865)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.256750)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.327614)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.398492)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.469365)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.540244)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.611146)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.682011)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.752882)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.823761)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.894643)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.965526)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (120.999125)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (121.036403)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.107285)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.178165)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.249036)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.319909)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.390792)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.461662)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.532540)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.603429)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.674293)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.745171)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.816044)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.886914)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.957770)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (121.999110)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (122.028641)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.099514)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.170379)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.241255)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.312125)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.383004)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.453860)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.524737)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.595615)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.666495)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.737364)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.808243)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.879120)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.950003)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (122.999062)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (123.020890)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.091757)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.162633)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.233498)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.304360)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.375225)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.446162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.516955)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.587817)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.658678)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.729545)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.800414)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.871300)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.942164)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (123.999038)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (124.013028)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.083894)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.154773)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.225648)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.296514)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.367371)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.438240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.509104)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.579967)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.650838)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.721700)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.792560)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.863426)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.934278)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (124.999006)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (125.005117)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.076019)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.146880)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.217739)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.288612)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.359480)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.430367)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.501230)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.572094)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.642960)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.713827)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.784695)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.855574)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.926439)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.997286)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (125.998951)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (126.068149)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.139012)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.209870)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.280745)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.351617)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.422487)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.493356)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.564225)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.635089)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.705976)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.776837)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.847711)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.918566)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.989423)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (126.998941)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (127.060300)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.131173)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.202038)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.272912)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.343794)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.414654)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.485529)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.556386)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.627259)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.698123)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.768981)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.839837)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.910709)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.981564)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (127.998886)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (128.052420)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.123271)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.194124)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.264996)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.335846)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.406703)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.477559)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.548410)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.619261)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.690126)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.760974)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.831838)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.902711)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.973583)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (128.998889)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (129.044446)  can

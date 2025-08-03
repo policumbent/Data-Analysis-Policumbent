@@ -1,0 +1,1954 @@
+ (000.000000)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.070733)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.141481)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.212240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.282988)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.294329)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (000.294533)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (000.294731)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (000.353743)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.424506)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.495267)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.566012)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.636772)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.707539)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.768008)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (000.778263)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.849043)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.919800)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (000.990542)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.061292)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.132059)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.202822)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.273583)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.344325)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.345010)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (001.345202)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (001.345392)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (001.415084)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.485836)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.556580)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.627323)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.698070)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.768345)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (001.768799)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.839602)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.910323)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (001.981085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.052154)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.122576)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.193331)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.264084)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.293038)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (002.293245)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (002.293437)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (002.334859)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.405585)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.476336)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.547081)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.617823)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.688576)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.759316)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.767880)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (002.830065)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.900799)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (002.971543)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.042290)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.113038)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.183779)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.254543)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.325273)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.342329)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (003.342538)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (003.342729)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (003.396017)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.466771)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.537524)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.608271)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.679017)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.749788)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.767850)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (003.820526)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.891270)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (003.962025)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.032775)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.103534)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.174295)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.245024)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.289026)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (004.289233)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (004.289423)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (004.315778)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.386510)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.457249)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.528025)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.598730)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.669474)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.740540)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.767801)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (004.811237)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.881677)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (004.952418)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.023151)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.093893)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.164646)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.235377)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.306111)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.340324)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (005.340532)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (005.340728)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (005.376844)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.447576)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.518305)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.589059)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.659787)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.730533)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.767752)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (005.801248)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.872013)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (005.942754)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.013497)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.084240)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.154971)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.225727)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.289015)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (006.289225)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (006.289417)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (006.296469)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.367209)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.437957)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.508707)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.579470)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.650188)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.720938)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.767701)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (006.791655)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.862418)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (006.933162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.003955)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.074648)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.145391)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.216139)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.286890)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.339009)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (007.339218)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (007.339413)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (007.358041)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.428378)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.499140)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.569867)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.640615)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.711365)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.767651)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (007.782084)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.852851)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.923614)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (007.994333)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.065108)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.135812)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.206556)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.277296)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.286981)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (008.287180)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (008.287372)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (008.348042)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.418790)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.489520)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.560256)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.630998)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.701746)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.767600)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (008.772478)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.843221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.913981)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (008.984713)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.055459)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.126202)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.196943)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.267695)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.338302)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (009.338511)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (009.338701)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.338890)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (009.409197)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.479931)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.550682)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.621424)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.692177)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.762948)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.767555)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (009.833688)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.904422)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (009.975174)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.045917)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.116674)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.187411)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.258168)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.283160)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (010.283368)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (010.283559)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (010.329202)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.399668)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.470421)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.541176)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.611924)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.682667)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.753416)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.767492)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (010.824159)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.894916)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (010.965664)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.036411)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.107157)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.177909)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.248683)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.319402)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.333161)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (011.333369)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (011.333563)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (011.390143)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.460893)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.531636)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.602378)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.673137)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.743874)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.767448)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (011.814631)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.885363)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (011.956107)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.026861)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.097615)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.168355)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.239096)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.285074)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (012.285327)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (012.285543)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (012.309844)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.380595)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.451346)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.522093)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.592845)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.663617)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.734355)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.767407)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (012.805085)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.875863)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (012.946606)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.017353)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.088096)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.158855)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.229688)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.300351)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.333159)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (013.333374)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (013.333565)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (013.371126)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.441859)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.512625)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.583405)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.654162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.725248)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.767351)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (013.795696)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.866463)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (013.937233)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.008002)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.078772)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.149505)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.220276)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.280267)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (014.280477)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (014.280667)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (014.291130)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.361789)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.432537)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.503346)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.574052)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.644814)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.715574)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.767292)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (014.786322)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.857090)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.927844)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (014.998611)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.069360)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.140121)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.210882)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.281634)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.330969)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (015.331194)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (015.331396)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (015.352393)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.423160)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.493912)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.564646)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.635393)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.706134)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.767244)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (015.776875)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.847635)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.918393)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (015.989130)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.059878)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.130624)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.201367)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.272132)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.279035)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (016.279283)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (016.279501)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (016.342873)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.413630)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.484377)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.555128)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.625885)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.696642)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.767195)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (016.767405)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.838161)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.908910)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (016.979661)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.050410)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.121162)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.191934)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.262676)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.328257)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (017.328468)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (017.328660)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (017.333388)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.404166)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.474918)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.545670)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.616432)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.687185)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.757934)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.767144)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (017.828972)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.899438)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (017.970341)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.040934)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.111677)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.182437)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.253254)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.276244)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (018.276446)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (018.276636)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (018.323976)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.394685)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.465440)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.536196)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.606948)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.677702)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.748460)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.767099)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (018.819221)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.889984)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (018.960736)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.031499)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.102263)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.173013)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.243785)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.314512)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.326238)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (019.326447)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (019.326638)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (019.385266)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.456015)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.526771)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.597522)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.668293)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.739041)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.767045)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (019.809790)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.880544)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (019.951302)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.022048)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.092792)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.163562)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.234302)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.274232)  can0  460   [4]  00 00 50 02 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 592 m
+)
+ (020.274449)  can0  462   [4]  00 00 50 02 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 592 m
+)
+ (020.274640)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (020.305434)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.375807)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.446560)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.517320)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.588080)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.658829)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.729577)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.766996)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (020.800326)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.871083)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (020.941840)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.012642)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.083338)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.154068)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.224814)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.295563)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.324235)  can0  460   [4]  00 00 65 01 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 357 m
+)
+ (021.324446)  can0  462   [4]  00 00 65 01 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 357 m
+)
+ (021.324639)  can0  464   [8]  FF 67 AF 02 A5 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049855 Â°,
+    Longitude: 7.6683889999999995 Â°
+)
+ (021.366303)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.437053)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.507806)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.578637)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.649321)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)
+ (021.720045)  can0  421   [2]  00 00 ::
+GretaData(
+    TelekBattery: 0 %,
+    RxShifting: 0
+)

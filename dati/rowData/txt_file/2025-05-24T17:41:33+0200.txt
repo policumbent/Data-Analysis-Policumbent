@@ -1,0 +1,3090 @@
+ (000.000000)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (000.000213)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (000.000403)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (001.054030)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (001.054239)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (001.054430)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (002.003910)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (002.004115)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (002.004310)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (003.053788)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (003.054001)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (003.054191)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (003.999521)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (003.999752)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (003.999966)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (005.049320)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (005.049571)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (005.049785)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (005.997728)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (005.997945)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (005.998141)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (007.047608)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (007.047832)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (007.048034)  can0  464   [8]  38 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049912 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (008.000942)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (008.001197)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (008.001419)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (009.055715)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (009.055966)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (009.056168)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (010.002997)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (010.003243)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (010.003444)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (011.054051)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (011.054302)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (011.054516)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (011.999096)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (011.999336)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (011.999554)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (013.046511)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (013.046787)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (013.047032)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (013.995876)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (013.996121)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (013.996336)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (015.049182)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (015.049424)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (015.049617)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (015.998286)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (015.998520)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (015.998716)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (017.053633)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (017.053900)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (017.054121)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (018.005298)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (018.005527)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (018.005742)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (019.055331)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (019.055551)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (019.055749)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (020.003050)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (020.003287)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (020.003503)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (021.052345)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (021.052570)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (021.052762)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (022.002178)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (022.002407)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (022.002605)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (023.053906)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (023.054159)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (023.054373)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (024.001771)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (024.001998)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (024.002206)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (025.051330)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (025.051544)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (025.051741)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (026.000885)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (026.001122)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (026.001338)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (027.055404)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (027.055644)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (027.055856)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (028.003913)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (028.004136)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (028.004340)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (029.054983)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (029.055245)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (029.055463)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (030.004726)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (030.004977)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (030.005181)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (031.057820)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (031.058053)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (031.058253)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (032.010198)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (032.010440)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (032.010651)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (033.059481)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (033.059691)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (033.059885)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (034.006174)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (034.006399)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (034.006597)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (035.056248)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (035.056489)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (035.056701)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (036.006586)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (036.006814)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (036.007019)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (037.055854)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (037.056082)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (037.056284)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (038.005537)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (038.005775)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (038.005994)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (039.057741)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (039.057961)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (039.058155)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (040.007698)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (040.007942)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (040.008159)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (041.054883)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (041.055130)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (041.055355)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (042.004539)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (042.004787)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (042.004993)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (043.054827)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (043.055058)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (043.055259)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (044.006159)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (044.006392)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (044.006604)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (045.053026)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (045.053254)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (045.053456)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (046.006574)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (046.006813)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (046.007012)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (047.055895)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (047.056152)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (047.056378)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (048.005618)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (048.005856)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (048.006067)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (049.054581)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (049.054792)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (049.054986)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (050.000954)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (050.001198)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (050.001419)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (051.053325)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (051.053572)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (051.053780)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (052.005037)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (052.005266)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (052.005458)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (053.057960)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (053.058202)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (053.058420)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (054.010545)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (054.010773)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (054.010990)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (055.058602)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (055.058834)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (055.059035)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (056.008905)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (056.009148)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (056.009381)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (057.061434)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (057.061654)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (057.061851)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (058.010384)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (058.010601)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (058.010798)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (059.061575)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (059.061820)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (059.062057)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (060.012460)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (060.012685)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (060.012891)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (061.064779)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (061.065012)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (061.065233)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (062.015816)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (062.016057)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (062.016272)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (063.066357)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (063.066588)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (063.066786)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (064.015319)  can0  460   [4]  04 00 C0 C1 ::
+whereamiData(
+    Speed: 0.04 km/h,
+    Distance: 49600 m
+)
+ (064.015554)  can0  462   [4]  04 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.04 km/h,
+    RawDistance: 49600 m
+)
+ (064.015754)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (065.073121)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (065.073372)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (065.073594)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (066.030867)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (066.031110)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (066.031315)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (067.081503)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (067.081737)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (067.081936)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (068.032415)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (068.032659)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (068.032886)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (068.983862)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (068.984087)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (068.984296)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (070.036735)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (070.036963)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (070.037180)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (070.989983)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (070.990221)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (070.990446)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (072.045407)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (072.045641)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (072.045859)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (072.995696)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (072.995923)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (072.996120)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (074.051123)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (074.051356)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (074.051578)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (075.006822)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (075.007057)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (075.007269)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (076.061810)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (076.062061)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (076.062261)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (077.014256)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (077.014497)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (077.014719)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (078.067223)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (078.067438)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (078.067628)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (079.024852)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (079.025112)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (079.025325)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (080.075882)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (080.076134)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (080.076354)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (081.033128)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (081.033345)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (081.033544)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (081.986303)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (081.986551)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (081.986766)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (083.041980)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (083.042225)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (083.042442)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (083.995490)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (083.995727)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (083.995936)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (085.051289)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (085.051561)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (085.051799)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (086.003878)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (086.004122)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (086.004342)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (087.056564)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (087.056771)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (087.056960)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (088.011669)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (088.011909)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (088.012116)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (089.065560)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (089.065796)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (089.066007)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (090.021272)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (090.021515)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (090.021721)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (091.072798)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (091.073031)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (091.073231)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (092.026830)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (092.027072)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (092.027283)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (093.081369)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (093.081591)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (093.081794)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (094.033311)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (094.033533)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (094.033728)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (094.986924)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (094.987169)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (094.987383)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (096.042057)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (096.042275)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (096.042478)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (096.995898)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (096.996130)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (096.996325)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (098.049846)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (098.050080)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (098.050293)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (099.000919)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (099.001165)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (099.001371)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (100.055326)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (100.055573)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (100.055805)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (101.009786)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (101.010044)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (101.010259)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (102.061302)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (102.061523)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (102.061721)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (103.013014)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (103.013239)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (103.013434)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (104.066232)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (104.066486)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (104.066712)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (105.021979)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (105.022203)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (105.022409)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (106.073543)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (106.073782)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (106.073984)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (107.027435)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (107.027679)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (107.027900)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (108.081132)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (108.081352)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (108.081543)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (109.033128)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (109.033352)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (109.033574)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (109.988881)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (109.989117)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (109.989334)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (111.039728)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (111.039961)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (111.040175)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (111.993371)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (111.993589)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (111.993782)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (113.049121)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (113.049367)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (113.049587)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (114.001579)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (114.001811)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (114.002013)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (115.057958)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (115.058189)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (115.058386)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (116.013796)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (116.014054)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (116.014268)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (117.068200)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (117.068417)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (117.068606)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (118.025852)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (118.026102)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (118.026303)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (119.077298)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (119.077554)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (119.077772)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (120.033188)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (120.033424)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (120.033646)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (120.985684)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (120.985915)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (120.986111)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (122.039604)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (122.039843)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (122.040059)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (123.013249)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (123.013482)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (123.013685)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (124.070736)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (124.070963)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (124.071162)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (125.022181)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (125.022422)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (125.022640)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (126.077482)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (126.077709)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (126.077905)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (127.029123)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (127.029356)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (127.029554)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (127.986501)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (127.986736)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (127.986948)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (129.039932)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (129.040170)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (129.040375)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (129.993205)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (129.993429)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (129.993625)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (131.046409)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (131.046656)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (131.046873)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (132.001479)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (132.001725)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (132.001941)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (133.053013)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (133.053248)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (133.053446)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (134.006445)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (134.006687)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (134.006904)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (135.067612)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (135.067828)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (135.068025)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (136.029322)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (136.029544)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (136.029740)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (136.984905)  can0  460   [4]  04 00 C0 C1 ::
+whereamiData(
+    Speed: 0.04 km/h,
+    Distance: 49600 m
+)
+ (136.985150)  can0  462   [4]  04 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.04 km/h,
+    RawDistance: 49600 m
+)
+ (136.985376)  can0  464   [8]  39 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049913 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (138.038534)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (138.038769)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (138.038972)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (138.995901)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (138.996117)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (138.996309)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (140.047488)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (140.047735)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (140.047946)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (141.000920)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (141.001160)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (141.001370)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (142.058717)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (142.058951)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (142.059152)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (143.010796)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (143.011049)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (143.011267)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (144.068275)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (144.068528)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (144.068747)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (145.023902)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (145.024135)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (145.024341)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (146.081466)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (146.081711)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (146.081946)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (147.037172)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (147.037396)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (147.037604)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (147.996760)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (147.996987)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (147.997184)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (149.054277)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (149.054518)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (149.054739)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (150.011908)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (150.012146)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (150.012361)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (151.070810)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (151.071062)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (151.071269)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (152.028429)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (152.028673)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (152.028890)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (152.987708)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (152.987938)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (152.988140)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (154.045334)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (154.045578)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (154.045795)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (154.998397)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (154.998644)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (154.998858)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (156.055545)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (156.055760)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (156.055954)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (157.009214)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (157.009438)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (157.009635)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (158.066439)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (158.066683)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (158.066906)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (159.019860)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (159.020090)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (159.020302)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (160.076662)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (160.076898)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (160.077100)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (161.036264)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (161.036517)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (161.036735)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (161.997435)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (161.997667)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (161.997867)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (163.054555)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (163.054775)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (163.054973)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (164.009567)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (164.009826)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (164.010055)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (165.068755)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (165.068980)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (165.069173)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (166.025758)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (166.025986)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (166.026184)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (166.984892)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (166.985126)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (166.985339)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (168.042514)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (168.042732)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (168.042933)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (168.997925)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (168.998142)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (168.998338)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (170.055037)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (170.055262)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (170.055472)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (171.011914)  can0  460   [4]  06 00 C0 C1 ::
+whereamiData(
+    Speed: 0.06 km/h,
+    Distance: 49600 m
+)
+ (171.012135)  can0  462   [4]  06 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49600 m
+)
+ (171.012337)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (172.070495)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (172.070715)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (172.070916)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (173.027776)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (173.028005)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (173.028222)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (174.083118)  can0  460   [4]  04 00 C0 C1 ::
+whereamiData(
+    Speed: 0.04 km/h,
+    Distance: 49600 m
+)
+ (174.083339)  can0  462   [4]  04 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.04 km/h,
+    RawDistance: 49600 m
+)
+ (174.083534)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (175.040731)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (175.040950)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (175.041146)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (175.996027)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (175.996258)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (175.996473)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (177.055159)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (177.055397)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (177.055601)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (178.008457)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (178.008676)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (178.008874)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (179.067107)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (179.067329)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (179.067530)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (180.028164)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (180.028371)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (180.028560)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (180.985025)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (180.985242)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (180.985433)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (182.048191)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (182.048434)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (182.048648)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (183.008018)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (183.008239)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (183.008444)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (184.065328)  can0  460   [4]  00 00 C0 C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49600 m
+)
+ (184.065547)  can0  462   [4]  00 00 C0 C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49600 m
+)
+ (184.065746)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (185.018937)  can0  460   [4]  05 00 BF C1 ::
+whereamiData(
+    Speed: 0.05 km/h,
+    Distance: 49599 m
+)
+ (185.019176)  can0  462   [4]  06 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.06 km/h,
+    RawDistance: 49599 m
+)
+ (185.019387)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (186.079958)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (186.080178)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (186.080368)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (187.037507)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (187.037730)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (187.037927)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (187.994506)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (187.994738)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (187.994947)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (189.053465)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (189.053691)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (189.053902)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (190.008981)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (190.009199)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (190.009396)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (191.069907)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (191.070144)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (191.070367)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (192.031154)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (192.031370)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (192.031564)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (192.986364)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (192.986583)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (192.986778)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (194.043397)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (194.043626)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (194.043842)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (195.000030)  can0  460   [4]  00 00 BF C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49599 m
+)
+ (195.000253)  can0  462   [4]  00 00 BF C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49599 m
+)
+ (195.000448)  can0  464   [8]  3A 68 AF 02 D0 02 75 00 ::
+whereamiCoords(
+    Latitude: 45.049914 Â°,
+    Longitude: 7.668431999999999 Â°
+)
+ (196.059095)  can0  460   [4]  2B 0C BE C1 ::
+whereamiData(
+    Speed: 31.150000000000002 km/h,
+    Distance: 49598 m
+)
+ (196.059311)  can0  462   [4]  DE 0D BE C1 ::
+whereamiRawData(
+    RawSpeed: 35.5 km/h,
+    RawDistance: 49598 m
+)
+ (196.059512)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (197.013696)  can0  460   [4]  0A 00 BE C1 ::
+whereamiData(
+    Speed: 0.1 km/h,
+    Distance: 49598 m
+)
+ (197.013923)  can0  462   [4]  0B 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.11 km/h,
+    RawDistance: 49598 m
+)
+ (197.014137)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (198.072060)  can0  460   [4]  07 00 BE C1 ::
+whereamiData(
+    Speed: 0.07 km/h,
+    Distance: 49598 m
+)
+ (198.072284)  can0  462   [4]  08 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.08 km/h,
+    RawDistance: 49598 m
+)
+ (198.072475)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (199.025440)  can0  460   [4]  00 00 BE C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49598 m
+)
+ (199.025661)  can0  462   [4]  00 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49598 m
+)
+ (199.025856)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (200.078285)  can0  460   [4]  00 00 BE C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49598 m
+)
+ (200.078511)  can0  462   [4]  00 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49598 m
+)
+ (200.078723)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (201.033526)  can0  460   [4]  04 00 BE C1 ::
+whereamiData(
+    Speed: 0.04 km/h,
+    Distance: 49598 m
+)
+ (201.033756)  can0  462   [4]  04 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.04 km/h,
+    RawDistance: 49598 m
+)
+ (201.033956)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (201.990201)  can0  460   [4]  00 00 BE C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49598 m
+)
+ (201.990420)  can0  462   [4]  00 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49598 m
+)
+ (201.990627)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (203.045280)  can0  460   [4]  00 00 BE C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49598 m
+)
+ (203.045509)  can0  462   [4]  00 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49598 m
+)
+ (203.045722)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (203.996027)  can0  460   [4]  00 00 BE C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49598 m
+)
+ (203.996247)  can0  462   [4]  00 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49598 m
+)
+ (203.996448)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)
+ (205.051190)  can0  460   [4]  00 00 BE C1 ::
+whereamiData(
+    Speed: 0.0 km/h,
+    Distance: 49598 m
+)
+ (205.051407)  can0  462   [4]  00 00 BE C1 ::
+whereamiRawData(
+    RawSpeed: 0.0 km/h,
+    RawDistance: 49598 m
+)
+ (205.051605)  can0  464   [8]  7B 68 AF 02 26 03 75 00 ::
+whereamiCoords(
+    Latitude: 45.049979 Â°,
+    Longitude: 7.668518 Â°
+)

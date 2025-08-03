@@ -103,12 +103,13 @@ def accoppia(df, n0):
     n2 = n1[0].split('_')
 
     for nf in os.listdir(path):
-        if n2[1] in nf:
-            pathF = os.path.join(path, nf)
-            dfh = pd.read_csv(pathF)
-            dfh['timestamp'] = pd.to_datetime(dfh['timestamp'])
-            if pR in dfh['timestamp'].values:
-                print(nf)
+        #if n2[1] in nf:
+        pathF = os.path.join(path, nf)
+        dfh = pd.read_csv(pathF)
+        dfh['timestamp'] = pd.to_datetime(dfh['timestamp'])
+        print(dfh)
+        if pR in dfh['timestamp'].values:
+            print(nf)
 
 
 def byDir(path):
@@ -139,4 +140,3 @@ def main():
     
 
 main()
-

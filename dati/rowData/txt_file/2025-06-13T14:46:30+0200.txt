@@ -1,0 +1,144 @@
+ (000.000000)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (001.000003)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (002.000016)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (003.000025)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (004.000057)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (005.000049)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (006.000058)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (007.000080)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (008.000098)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (009.000079)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (010.000100)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (011.000109)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (012.000103)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (013.000117)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (014.000127)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (015.000132)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (016.000160)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (017.000145)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (018.000151)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (019.000184)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (020.000215)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (021.000198)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (022.000199)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (023.000206)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (024.000232)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (025.000239)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (026.000243)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (027.000245)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (028.000258)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (029.000265)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (030.000262)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (031.000270)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (032.000273)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (033.000290)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (034.000300)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
+ (035.000304)  can0  422   [1]  00 ::
+GbData(
+    GbGear: 0
+)
