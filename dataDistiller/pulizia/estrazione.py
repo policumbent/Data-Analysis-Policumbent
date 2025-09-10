@@ -28,7 +28,8 @@ tk_battery = re.compile(r"TelekBattery:\s*(\d+)\s*%")
 rxShifting = re.compile(r"RxShifting:\s*(\d+)\s")
 
 
-pathI = '../../dati/rowData/txt_file'
+pathI = '../../dati/Cerberus/stupinigi/20250906/rowdata/gns/txt_file'
+pathO = '../../dati/Cerberus/stupinigi/20250906/rowdata/gns/csv_file'
 
 for nf in os.listdir(pathI):
     print(nf)
@@ -77,5 +78,7 @@ for nf in os.listdir(pathI):
                 dati_i['rxShifting'] = int(rxShiftit.group(1))
         
         df = pd.DataFrame(dati)
-        print(df)
+        df = df.fillna(0)
+        nff, _ = os.path.splitext(nf) 
+        df.to_csv(os.path.join(pathO, nff + '.csv'), index=False)
         break
