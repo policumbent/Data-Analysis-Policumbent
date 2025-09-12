@@ -81,4 +81,4 @@ for nf in os.listdir(pathI):
         df = df.fillna(0)
         nff, _ = os.path.splitext(nf) 
         df.to_csv(os.path.join(pathO, nff + '.csv'), index=False)
-        break
+    
