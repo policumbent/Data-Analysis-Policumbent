@@ -3,96 +3,6 @@ import matplotlib.pyplot as plt
 import os
 
 
-def hearthrate(inpF, outF):
-    df = pd.read_csv(inpF)
-
-    # Converte la colonna timestamp in datetime e tronca ai secondi
-    df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
-    df = df.dropna(subset=['timestamp'])
-    df['second'] = df['timestamp'].dt.floor('S')
-
-    # Calcola la media per ogni secondo
-    df_avg = df.groupby('second')['heartrate'].mean().reset_index()
-    df_avg.rename(columns={'second': 'timestamp', 'heartrate': 'avg_heartrate'}, inplace=True)
-
-
-    df_avg.to_csv(outF, index=False)
-    print(f"Salvato: {outF}")
-
-
-def powermeter(inpF, outF):
-    df = pd.read_csv(inpF)
-    
-    df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
-    df = df.dropna(subset=['timestamp'])  # rimuove righe con timestamp non validi
-
-    df['second'] = df['timestamp'].dt.floor('S')
-
-    df_avg = df.groupby('second')[['power', 'instant_power', 'cadence']].mean().reset_index()
-    df_avg.rename(columns={'second': 'timestamp'}, inplace=True)
-
-
-    df_avg.to_csv(outF, index=False)
-    print(f"Salvato: {outF}")
-
-
-def unifica(inpF, inpF2, outF):
-    df1 = pd.read_csv(inpF)
-    df2 = pd.read_csv(inpF2)
-
-    df1['timestamp'] = pd.to_datetime(df1['timestamp'], errors='coerce')
-    df2['timestamp'] = pd.to_datetime(df2['timestamp'], errors='coerce')
-
-
-    #seleziono colonne da unire
-
-    df1_sel = df1[['timestamp', 'power', 'instant_power', 'cadence']]
-    df2_sel = df2[['timestamp', 'avg_heartrate']]
-
-    df_merged = pd.merge(df1_sel, df2_sel, on='timestamp', how='inner')
-
-    df_merged.to_csv(outF, index=False)
-
-
-def controlloRigheNulle(inpF, outF):
-    df = pd.read_csv(inpF)
-    
-    #ricerco righe con valori nulli
-    r0 = (df[['power', 'instant_power', 'cadence', 'avg_heartrate']] == 0).sum()
-    #print(r0)
-
-    righe_nulle = (df['cadence'] == 0) | (df['instant_power'] == 0)
-
-    df_zeri = df[righe_nulle].copy()
-    print(df_zeri)
-
-    df_zeri['timestamp'] = pd.to_datetime(df_zeri['timestamp'])
-    intervalli = df_zeri['timestamp'].diff().dropna()
-
-    intervalli_filtrati = intervalli[intervalli < pd.Timedelta(seconds=600)]
-
-    print(intervalli.describe())
-    print(intervalli_filtrati.describe())
-
-    plt.figure(figsize=(10, 4))
-    plt.plot(intervalli_filtrati.dt.total_seconds().values, marker='o')
-    plt.title("Intervalli tra righe con cadence=0 o instant_power=0")
-    plt.xlabel("Indice evento")
-    plt.ylabel("Intervallo (s)")
-    plt.grid(True)
-    plt.tight_layout()
-    plt.show()
-
-
-def normalizza(df, f):
-    if f:
-        df['second'] = df['timestamp'].dt.floor('S')
-        df_avg = df.groupby('second')[['power', 'instant_power', 'cadence']].mean().reset_index()
-        df_avg.rename(columns={'second': 'timestamp'}, inplace=True)
-
-        return df_avg
-
-
 def accoppia(df, n0):
     path = '../../dati/rowData/csv_file/hearthrate'
     
@@ -131,12 +41,121 @@ def byDir(path):
             break
 
 
-def main():
-
-    src_path = '../../dati/rowData/csv_file/powermeter'
-
-    byDir(src_path)
+def searchData(nf, T):
+    if T:
+        dt, r = nf.split('T')
+        rr = r.split('+')
+        data = f'{dt} {rr[0][0:2]}:{rr[0][2:4]}:{rr[0][4:6]}'
+    
+    else:
+        dt, r = nf.split('@')
+        d = dt.split('_')
+        dd = d[1].split('-')
+        data = f'{dd[2]}-{dd[1]}-{dd[0]} {r[0:2]}:{r[2:4]}:{r[4:6]}'
 
     
+    return data
+
+
+def normGnss(pathI):
+    globalDf = pd.DataFrame()
+    for nf in os.listdir(pathI):
+        pathF = os.path.join(pathI, nf)
+        df = pd.read_csv(pathF)
+
+        start_time = pd.to_datetime(searchData(nf, True))
+        df["timestamp"] = start_time + pd.to_timedelta(df["timestamp"], unit="s")
+
+        colRules = {
+            'tkBattery' : 'mean',
+            'rxShifting' : 'first',
+            'gear' : 'first',
+            'speed' : 'mean',
+            'distance' : 'mean',
+            'raw_speed' : 'mean',
+            'raw_distance' : 'mean',
+            'latitude' : 'mean',
+            'longitude' : 'mean'
+        }
+
+        rules = dict()
+
+        for c in df.columns:
+            if c in colRules:
+                rules[c] = colRules[c]
+            
+        normDf = normalizza(df, rules)
+
+        globalDf = pd.concat([globalDf, normDf], ignore_index=False)
+        globalDf = globalDf.fillna(0)
+    
+    globalDf = globalDf.sort_values(by='timestamp').reset_index(drop=True)
+    print(globalDf)
+
+    return globalDf
+
+
+def normPowerm(pathI):
+    globalDf = pd.DataFrame()
+    for nf in os.listdir(pathI):
+        pathF = os.path.join(pathI, nf)
+        print(nf)
+
+        df = pd.read_csv(pathF)
+        df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
+
+        colRules = {
+            'power' : 'mean',
+            'instant_power' : 'mean',
+            'cadence' : 'mean'
+        }
+
+        normDf = normalizza(df, colRules)
+        print(normDf)
+        normDf['timestamp'] = pd.date_range(start=searchData(nf, False), periods = len(normDf), freq='S')
+
+        print(normDf)
+
+        globalDf = pd.concat([globalDf, normDf], ignore_index=False)
+        globalDf = globalDf.fillna(0)
+    
+    globalDf = globalDf.sort_values(by='timestamp').reset_index(drop=True)
+    print(globalDf)
+
+    return globalDf
+
+
+def normalizza(df, rules):
+    df["second"] = df["timestamp"].dt.floor("S")
+    normDf = df.groupby('second', as_index = False).agg(rules)
+    normDf = normDf.rename(columns={'second' : 'timestamp'})
+    
+    return normDf
+
+
+def main():
+
+    pathI = '../../dati/Cerberus/stupinigi/20250906/rowdata'
+    pathO = '../../dati/Cerberus/stupinigi/20250906'
+
+    for dir in os.listdir(pathI):
+        if dir == 'powermeter':
+            newPath = os.path.join(pathI, dir)
+
+            dfp = normPowerm(newPath)
+
+        elif dir == 'gnss':
+            newPath = os.path.join(pathI, dir)
+            for nDir in os.listdir(newPath):
+                if nDir == 'csv_file':
+                    newNpath = os.path.join(newPath, nDir)
+
+                    dfG = normGnss(newNpath)
+    
+    mergeDf = pd.merge(dfp, dfG, on='timestamp', how='inner')
+
+    pathC = os.path.join(pathO, 'merge.csv')
+    mergeDf.to_csv(pathC, index=False)
+
 
 main()
