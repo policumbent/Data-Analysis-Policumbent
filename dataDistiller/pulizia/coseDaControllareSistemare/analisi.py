@@ -11,11 +11,19 @@ import folium
 # test 2 con creazione animata del percorso
 
 def f2(df):
-    x = df['longitudine'].values
-    y = df['latitudine'].values
-    speed = df['velocità'].values
+    controlTime = True
+    if controlTime:
+        df["timestamp"] = pd.to_datetime(df["timestamp"])
+        start = '2025-09-13 10:27:13'
+        end   =  '2025-09-13 11:00:00'
+        sub_df = df[(df["timestamp"] >= start) & (df["timestamp"] <= end)]
+        cols_to_interpolate = sub_df.columns.difference(['rxShifting'])
+        sub_df[cols_to_interpolate] = sub_df[cols_to_interpolate].interpolate(method="linear", limit_direction="both")
+        print(sub_df['rxShifting'])
 
-    img = mpimg.imread('mappa.png')
+    x = sub_df['longitude'].values
+    y = sub_df['latitude'].values
+    speed = sub_df['raw_speed'].values
 
     points = np.array([x, y]).T.reshape(-1, 1, 2)
     segments = np.concatenate([points[:-1], points[1:]], axis=1)
@@ -39,14 +47,25 @@ def f2(df):
     line = LineCollection([], linewidth=2)
     ax.add_collection(line)
 
+    scatter = ax.scatter([], [], color="red", s=40, marker="o")
+
     # Funzione di aggiornamento
     def update(frame):
         if frame < 2:
             line.set_segments([])  # non disegnare nulla per i primi frame
+            line.set_color([])
+            scatter.set_offsets(np.empty((0, 2)))
         else:
             line.set_segments(segments[:frame])
             line.set_color(colors[:frame])
-        return line,
+            scatter.set_offsets(np.empty((0, 2)))
+
+            
+            mask = sub_df['rxShifting'][:frame].notna()
+            points_to_plot = np.column_stack((x[:frame][mask], y[:frame][mask]))
+            scatter.set_offsets(points_to_plot)
+
+        return line, scatter
 
     sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
     sm.set_array([])  
@@ -154,8 +173,7 @@ def main():
         '5': f5
     }
 
-    df = pd.read_csv('giro12.csv')
-
+    df = pd.read_csv('../../../dati/Cerberus/balocco/20250913/test.csv')
     inpUt = input("inserisci numero funzione da chiamare: ")
     fnz = fn.get(inpUt.strip())
     if fnz:
