@@ -19,7 +19,7 @@ def plot(file1):
     plt.figure(figsize=(12, 6))
 
 
-    for col in ['coppia', 'cadence', 'instant_power', 'avg_heartrate']:
+    for col in ['coppia', 'cadence', 'instant_power']:
         plt.plot(df1['timestamp'], df1[col], label=f"{col}")
     
     if inp == '2':
@@ -116,7 +116,7 @@ def coppiaCadenza():
 
 
 def main():
-    file = '../../dati/BM_23/Cerberus/Diego_16_09_2023_AM_2.csv'  
+    file = '../../dati/Cerberus/stupinigi/20250906/rowdata/powermeter/powermeter_13-06-2025@214957.csv'  
     inp = input('(1) plot (2) media e deviazione, (3) interpolazione: ')
 
     if inp == '1':
