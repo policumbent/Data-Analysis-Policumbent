@@ -38,6 +38,20 @@ cadence = re.compile(r'SrmCadence:\s*([\d\.]+)\s*rpm')
 pathI = '../../dati/Cerberus/balocco/20250913/rowdata'
 pathO = '../../dati/Cerberus/balocco/20250913'
 
+time = True
+
+
+def searchData(nf):
+    dt, r = nf.split('T')
+    rr = r.split('+')
+    rrr = rr[0].split('_')
+    data = f'{dt} {rrr[0]}:{rrr[1]}:{rrr[2]}'
+
+    #print(data)
+
+    return data
+    
+
 for nf in os.listdir(pathI):
     n,e = os.path.splitext(nf)
     if e == '.txt':
@@ -95,6 +109,12 @@ for nf in os.listdir(pathI):
             
             df = pd.DataFrame(dati)
             df = df.fillna(0)
+
+            if time:
+                start = pd.to_datetime(searchData(nf))
+                df["timestamp"] = pd.to_numeric(df["timestamp"], errors="coerce")
+                df["timestamp"] = start + pd.to_timedelta(df["timestamp"], unit="s")
+
             nff, _ = os.path.splitext(nf) 
             df.to_csv(os.path.join(pathO, nff + '.csv'), index=False)
         
